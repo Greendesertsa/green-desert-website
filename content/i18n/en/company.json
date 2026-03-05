@@ -117,13 +117,13 @@
   },
   "team": {
     "title": "Our Team",
-    "subtitle": "A founder-led, multidisciplinary group translating hemp innovation into ready-to-build solutions.",
+    "subtitle": null ,
     "members": [
       {
         "id": "abdulhadi",
         "name": "Abdulhadi Alamer",
-        "role": "Chairman & Founder",
-        "bio": "Leads government relations, investor engagement, and the strategic rollout of hemp industrialization across Saudi giga projects.",
+        "role": "Founder & CEO",
+        "bio": "Leads strategic partnerships, investor engagement, and growth initiatives across public and private sectors.",
         "image": "/hadi.jpg",
         "email": "info@greendesert.sa",
         "linkedin": "https://www.linkedin.com/in/hadialamer/"
