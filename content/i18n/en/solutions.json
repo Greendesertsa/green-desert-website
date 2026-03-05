@@ -194,19 +194,19 @@
             "title": "Innovative Solutions",
             "description": "Climate-adapted hemp cultivars and precision agriculture systems designed to perform in arid and desert-edge environments.",
             "icon": "lightbulb",
-            "image": "/fast-implementation.jpeg"
+            "image": "/innovation.jpeg"
           },
           {
             "title": "Target Approach",
             "description": "Custom irrigation, soil management, and agronomy tailored to Middle Eastern soil profiles and water constraints.",
             "icon": "target",
-            "image": "/fiber-cover.jpg"
+            "image": "/target.jpeg"
           },
           {
             "title": "Fast Implementation",
             "description": "Rapid growth cycles enable multiple harvests per year, accelerating biomass production and project timelines.",
             "icon": "zap",
-            "image": "/fiber-cover.jpg"
+            "image": "/fast-implementation.jpeg"
           },
           {
             "title": "Relible & Secure",
@@ -403,7 +403,7 @@
             "title": "Antimicrobial",
             "description": "Prevents the formation of mold and bacteria that cause odors.",
             "icon": "shield-minus",
-            "image": /Antimicrobial.png"
+            "image": "/Antimicrobial.png"
           },
           {
             "title": "Durability",
@@ -569,7 +569,7 @@
             "title": "National Supply Chain",
             "description": "Locally sourced raw materials that strengthen Saudi Arabia’s industrial autonomy and material security.",
             "icon": "factory",
-            "image": /National-Supply.png"
+            "image": "/National-Supply.png"
           }
         ]
       },
