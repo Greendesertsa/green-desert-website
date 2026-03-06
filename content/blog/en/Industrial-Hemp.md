@@ -3,8 +3,8 @@ title: "Industrial Hemp – A Key to Saudi Arabia’s Sustainable Future"
 date: 2024-12-12
 excerpt: "Discover how industrial hemp can strengthen sustainability, innovation, and low-carbon development across key sectors of Saudi Arabia’s economy."
 author: "Green Desert"
-image: "/fiber-cover.jpg"
-tags: [Regulation, Compliance]
+image: "/Blog-sustainable.jpeg"
+tags: [Sustainable]
 ---
 
 ## Introduction
