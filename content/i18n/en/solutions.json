@@ -86,7 +86,7 @@
         "title": "Agriculture",
         "tagline": "High-performance agritech",
         "summary": "Deploying climate-adapted crops and regenerative agronomy to secure the Kingdom’s industrial feedstock.",
-        "image": "/soil .jpeg",
+        "image": "/Agriculture.png",
         "href": "/solutions/agriculture"
       },
       {
@@ -690,7 +690,7 @@
       "hero": {
         "title": "Agriculture",
         "body": "Deploying climate-adapted crops and regenerative agronomy to secure the Kingdom’s industrial feedstock. We engineer high-yield, water-efficient systems that restore soil health and drive national resource autonomy.",
-        "image": "/soil .jpeg"
+        "image": "/Agriculture.png"
       },
       "overview": {
         "paragraphs": [
