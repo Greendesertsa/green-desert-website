@@ -63,10 +63,11 @@ export function MiniNavbar({ contentKey, sections: overrideSections }: { content
 
   return (
     <div ref={navRef} className={cn("sticky z-30")} style={{ top: 'calc(var(--gd-header-offset, 0px) + 12px)' }}>
-      <div className={cn("container mx-auto px-4")}>
+      <div className={cn("w-full px-4 md:px-0 md:container md:mx-auto")}>
         <nav
           className={cn(
-            "w-min overflow-x-auto mx-auto",
+            "overflow-x-auto scrollbar-none mx-auto",
+            "md:w-min",
             "rounded-full border backdrop-blur-md",
             "bg-white/65 border-gray-200 shadow-sm"
           )}
