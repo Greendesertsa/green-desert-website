@@ -38,10 +38,7 @@ export const SectionCompanyHero = () => {
             <Heading 
               as="h1"
               variant="white"
-              className="uppercase"
-              style={{
-                fontSize: '5.45rem'
-              }}
+              className="uppercase lg:text-[5.45rem] text-[2.45rem]"
             >
               {hero.title}
             </Heading>
