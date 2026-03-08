@@ -9,6 +9,7 @@ import {
   Sheet,
   SheetContent,
   SheetHeader,
+  SheetTitle,
   SheetTrigger,
   SheetClose,
 } from "@/components/ui/sheet";
@@ -63,12 +64,14 @@ export function MobileMenu({
       <SheetContent
         side={isRTL ? "left" : "right"}
         className="w-full max-w-sm p-0 overflow-hidden"
+        aria-describedby={undefined}
       >
         <div className="flex flex-col h-full bg-white">
           {/* Header */}
           <SheetHeader
             className={`flex flex-row items-center justify-between p-6 border-b border-gray-100 ${isRTL ? "flex-row-reverse" : ""}`}
           >
+            <SheetTitle className="sr-only">Navigation Menu</SheetTitle>
             <Image
               src={getAssetPath("/logo_GD_black_EN.png")}
               alt="Green Desert Logo"
