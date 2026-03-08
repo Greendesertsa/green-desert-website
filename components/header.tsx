@@ -145,7 +145,7 @@ export function Header() {
               alt="Green Desert Logo"
               width={150}
               height={40}
-              className="h-12 w-auto transition-opacity duration-300"
+              className="h-8 md:h-12 w-auto transition-opacity duration-300"
               priority
             />
           </Link>
