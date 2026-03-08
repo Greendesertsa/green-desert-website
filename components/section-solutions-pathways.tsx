@@ -52,8 +52,7 @@ function SolutionCard({
   return (
     <Link
       href={href}
-      className="group flex h-full flex-shrink-0 snap-start flex-col overflow-hidden rounded-3xl bg-white transition"
-      style={{ width: 'calc(25%)' }}
+      className="group flex h-full flex-shrink-0 snap-start flex-col overflow-hidden rounded-3xl bg-white transition w-[75vw] md:w-[25%]"
     >
       <div className="relative h-[50%] min-h-[220px] w-full overflow-hidden rounded-3xl">
         {video && (
