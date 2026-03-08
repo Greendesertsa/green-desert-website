@@ -19,13 +19,13 @@ export function SectionCompanyVision() {
 
   const axisClass = cn(
     "relative space-y-10",
-    isRTL ? "border-r pr-8" : "border-l pl-8"
+    isRTL ? "border-r pr-5 md:pr-8" : "border-l pl-5 md:pl-8"
   )
   const markerClass = cn(
-    "absolute top-4 h-3.5 w-3.5 rounded-full border-2 border-emerald-500 bg-white",
+    "absolute top-0 h-3.5 w-3.5 rounded-full border-2 border-emerald-500 bg-white",
     isRTL ? "-right-[7px]" : "-left-[7px]"
   )
-  const entryPadding = isRTL ? "pr-8 text-right" : "pl-8"
+  const entryPadding = isRTL ? "pr-5 md:pr-8 text-right" : "pl-5 md:pl-8"
   const activePhase = phases.find((phase) => phase.id === activePhaseKey) ?? phases[0]
 
   useEffect(() => {
@@ -34,7 +34,10 @@ export function SectionCompanyVision() {
       if (frame) return
       frame = requestAnimationFrame(() => {
         frame = null
-        const stickyTop = stickyRef.current?.getBoundingClientRect().top ?? 0
+        const isDesktop = window.innerWidth >= 1024
+        const stickyTop = isDesktop
+          ? (stickyRef.current?.getBoundingClientRect().top ?? 0)
+          : window.innerHeight * 0.4
         let closestKey = activePhaseKey
         let smallestDelta = Number.POSITIVE_INFINITY
         entryRefs.current.forEach((el, index) => {
@@ -88,7 +91,7 @@ export function SectionCompanyVision() {
         <div className="mt-12 grid gap-10 lg:grid-cols-[0.35fr_0.65fr]">
           <div
             ref={stickyRef}
-            className="lg:sticky lg:top-44 min-h-[300px] max-h-[75vh] h-[400px] rounded-3xl overflow-hidden shadow-lg relative"
+            className="lg:sticky lg:top-44 h-[240px] sm:h-[320px] lg:h-[400px] max-h-[75vh] rounded-3xl overflow-hidden shadow-lg relative"
           >
             <div className="absolute inset-0">
               <AnimatePresence mode="wait">
@@ -134,12 +137,12 @@ export function SectionCompanyVision() {
                 key={phase.id}
                 className={cn("relative", entryPadding)}
                 ref={(el) => { entryRefs.current[index] = el }}
-                style={{ minHeight: "400px" }}
+                style={{ minHeight: "clamp(280px, 50vw, 400px)" }}
               >
                 <span className={markerClass} />
                 <div
                   className={cn(
-                    "rounded-3xl border bg-white p-8 shadow-sm transition min-h-[320px] flex flex-col",
+                    "rounded-3xl border bg-white p-5 md:p-8 shadow-sm transition flex flex-col",
                     activePhaseKey === phase.id ? "border-emerald-300 shadow-lg" : "border-transparent opacity-80"
                   )}
                 >
