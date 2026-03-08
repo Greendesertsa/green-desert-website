@@ -93,7 +93,7 @@ export default async function NewsPage({ params }: PageProps) {
               ))}
             </div>
 
-            {/* {rest.length > 0 && (
+            {rest.length > 0 && (
               <div className="mt-10 space-y-3">
                 {rest.map((post) => {
                   const href = post.url
@@ -106,7 +106,7 @@ export default async function NewsPage({ params }: PageProps) {
                     >
                       {post.image && (
                         <div className="relative h-14 w-20 overflow-hidden rounded-lg border border-gray-100">
-                          {/* eslint-disable-next-line @next/next/no-img-element 
+                          {/* eslint-disable-next-line @next/next/no-img-element */}
                           <img
                             src={getAssetPath(post.image)}
                             alt={post.title}
@@ -136,7 +136,7 @@ export default async function NewsPage({ params }: PageProps) {
                   );
                 })}
               </div>
-            )} */}
+            )}
           </>
         ) : (
           <div className="text-center py-16">
