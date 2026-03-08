@@ -62,7 +62,7 @@ export function MobileMenu({
       </SheetTrigger>
       <SheetContent
         side={isRTL ? "left" : "right"}
-        className="w-full max-w-sm p-0"
+        className="w-full max-w-sm p-0 overflow-hidden"
       >
         <div className="flex flex-col h-full bg-white">
           {/* Header */}
@@ -106,9 +106,9 @@ export function MobileMenu({
           </SheetHeader>
 
           {/* Navigation Content */}
-          <div className="flex flex-col flex-1">
+          <div className="flex flex-col flex-1 min-h-0">
             {/* Navigation Links */}
-            <nav className="flex-1 px-6 py-8 space-y-2">
+            <nav className="flex-1 min-h-0 overflow-y-auto px-6 py-8 space-y-2">
               {navItems.map((item) => {
                 const hasSubItems = !!item.subItems?.length;
                 const itemHref = formatHref(item.href) ?? "#";
