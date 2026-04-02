@@ -40,16 +40,6 @@ GD is currently studying hemp seeds and conducting trials in collaboration with 
 ## Conclusion
 Industrial hemp presents an opportunity for Saudi Arabia to strengthen its sustainability efforts, drive economic growth, and lead the region in green innovation. Through GD’s pioneering research and partnership with MEWA, Saudi Arabia is well-positioned to integrate hemp into its Vision 2030 strategy, demonstrating the Kingdom’s commitment to a greener and more prosperous future.
 
-## Resources
-
-- [Green Saudi Initiative: Sustainability and Environmental Goals of Vision 2030](https://ksa2030.blog/green-saudi-initiative-sustainability-and-environmental-goals-of-vision-2030/)
-- [Dawn News: Industrial Hemp and Market Trends](https://www.dawn.com/news/1885731)
-- [Industrial Hemp Market Forecast Report](https://www.giiresearch.com/report/ksi1627658-industrial-hemp-market-forecasts-from.html)
-- [Global Industrial Hemp Market Report (2024-2032)](https://www.businesswire.com/news/home/20241101118109/en/Industrial-Hemp-Market-Report-2024-2032---Global-Industrial-Hemp-Market-Forecast-to-Grow-to-US%24-15.01-Billion-by-2028---ResearchAndMarkets.com)
-- [Gulf International Forum: Saudi Arabia’s Climate Agenda](https://gulfif.org/breaking-down-saudi-arabias-ambitious-climate-agenda/)
-- [Hemp.com: The Versatility and Benefits of Industrial Hemp](https://www.hemp.com/2024/04/exploring-the-versatility-and-benefits-of-industrial-hemp-what-is-hemp/)
-- [Arab News: Business & Economy](https://www.arabnews.com/node/2423026/business-economy)
-
 
 
 
