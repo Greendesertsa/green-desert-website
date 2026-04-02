@@ -42,9 +42,5 @@ Its versatility makes it a key material for sustainable manufacturing.
 As innovation in green materials continues, hemp fiber is positioned to play a central role in transforming textile production. Its combination of environmental responsibility and high performance makes it a promising solution for reducing the environmental impact of the textile industry.
 ## Conclusion
 Hemp fiber represents a practical and sustainable path forward for the textile sector. By combining durability, resource efficiency, and environmental benefits, hemp supports the transition toward greener, more responsible textile production.
-## Resources
-- [Hemp is one of the strongest fibers around.](https://textileexchange.org/hemp/)
-- [It's better with Hemp](https://www.hemporium.co.za/textiles?srsltid=AfmBOop_CRfpUi0UVnkyA5MKzJDnbopR6gfqfElCxe9Xg0tbFPf-o0BQ)
-- [What to Know About Hemp Fabric](https://www.webmd.com/a-to-z-guides/what-to-know-about-hemp-fabric)
 
 
