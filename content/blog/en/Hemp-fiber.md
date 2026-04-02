@@ -3,7 +3,7 @@ title: "Hemp Fiber: The Future of Green Textiles"
 date: 2024-11-12
 excerpt: "Discover how industrial hemp can strengthen sustainability, innovation, and low-carbon development across key sectors of Saudi Arabia’s economy."
 author: "Green Desert"
-image: "/textile-blog.jpeg"
+image: "/blog-hempfiber.jpeg"
 tags: [Sustainable , Textile]
 ---
 # Hemp Fiber: The Future of Green Textiles
