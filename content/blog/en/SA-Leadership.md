@@ -2,6 +2,7 @@
 title: "Saudi Arabia’s Leadership in Industrial Hemp and Regional Sustainability"
 date: "2024-12-01"
 author: "Green Desert"
+imaage: "/blog-saudi.png"
 excerpt: A brief summary of your article (1-2 sentences)
 
 ---
