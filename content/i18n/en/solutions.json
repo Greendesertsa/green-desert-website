@@ -795,13 +795,13 @@
             "title": "Antimicrobial Performance",
             "description": "Natural resistance to bacteria, mold, and pests without chemical treatment.",
             "icon": "shield-check",
-            "image": "/Antimicrobial2 .png"
+            "image": "/Antimicrobial3.png"
           },
           {
             "title": "Respiratory Protection",
             "description": "Dust-screened materials designed to minimize respiratory stress for animals and handlers.",
             "icon": "wind",
-            "image": "/Respiratory .png"
+            "image": "/Respiratory2.png"
           },
           {
             "title": "Ammonia Control",
@@ -873,7 +873,7 @@
             "title": "Fatty Acid Profile",
             "description": "Rich in Omega-3, 6, and 9 to deeply nourish the skin barrier and prevent transepidermal water loss.",
             "icon": "droplet",
-            "image": "/Fatty-Acid profle.png"
+            "image": "/Fatty-Acid-profle2.png"
           },
           {
             "title": "Antioxidant Protection",
@@ -960,7 +960,7 @@
             "title": "Omega-3 & 6 Balance",
             "description": "Perfectly ratioed essential fatty acids to support cardiovascular health and brain function.",
             "icon": "heart-pulse",
-            "image": "/Omega3&6-.png"
+            "image": "/Omega3&66.png"
           },
           {
             "title": "Allergen-Free Status",
