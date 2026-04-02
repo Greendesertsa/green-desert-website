@@ -36,13 +36,6 @@ Green Desert’s ongoing research in hemp cultivation and industrial application
 ## Conclusion
 By taking the lead in industrial hemp research and development, Saudi Arabia has the potential to transform the MENA region’s approach to sustainability. With GD’s expertise and Vision 2030’s commitment to green industries, the Kingdom is setting a new standard for innovation, economic growth, and environmental responsibility. Saudi Arabia’s role in hemp production will not only benefit its own economy but also position it as a driving force for sustainability across the region.
 
-## Resources
-- [UNCTAD: Policy Brief on Sustainable Development](https://unctad.org/system/files/official-document/presspb2023d4_en.pdf)
-- [Zawya: GE Vernova Fuels Saudi Arabia’s Energy Transition](https://www.zawya.com/en/press-release/events-and-conferences/ge-vernova-fuels-saudi-arabias-energy-transition-with-bold-initiatives-at-the-new-era-of-energy-forum-ru89a5l8)
-- [Taiwan News: Global Sustainability and Industrial Trends](https://www.taiwannews.com.tw/news/6052044)
-- [Green Saudi Initiative: Sustainability and Environmental Goals of Vision 2030](https://ksa2030.blog/green-saudi-initiative-sustainability-and-environmental-goals-of-vision-2030/)
-- [Forbes: A Blueprint for the Future – Global Lessons in Sustainability from Saudi Arabia’s Vision 2030](https://www.forbes.com/councils/forbesbusinesscouncil/2025/02/10/a-blueprint-for-the-future-global-lessons-in-sustainability-from-saudi-arabias-vision-2030/)
-- [MENA Forum: Hemp as a Sustainable Timber Alternative](https://mena-forum.com/hemp-sustainable-timber/)
 
 
 ​
