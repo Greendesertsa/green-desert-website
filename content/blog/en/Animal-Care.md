@@ -50,7 +50,4 @@ Bio-based animal care solutions support sustainable agriculture by reducing reli
 ## Conclusion
 Improving livestock environments through advanced bio-based materials offers a practical pathway toward healthier animals, safer farm operations, and more sustainable agriculture. By integrating comfort, hygiene, and biosecurity, animal care solutions help modern livestock systems meet evolving environmental and operational standards.
 
-## Resources
-- [Food and Agriculture Organization of the United Nations – Animal Health and Sustainable Livestock Systems](https://openknowledge.fao.org/server/api/core/bitstreams/82a47025-67c1-4001-b737-0147f9f0042b/content)
-- [World Organisation for Animal Health – Animal Welfare Standards](https://www.woah.org/en/what-we-do/animal-health-and-welfare/animal-welfare/development-of-animal-welfare-standards/)
-- [International Livestock Research Institute – Livestock Health](https://www.ilri.org)
+
