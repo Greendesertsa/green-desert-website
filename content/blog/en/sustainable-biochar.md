@@ -45,6 +45,5 @@ A project in Saudi Arabia shows how biochar performs even in extreme climates. A
 This example illustrates how biochar protects soils and supports food production in harsh environments. Sonnenerde and Carbon Standards International demonstrate that sustainable soil management works hand in hand with climate protection.
 ## Conclusion
 Turning agricultural waste into biochar offers Saudi Arabia a practical, science-based solution to improve desert soils, reduce emissions, and unlock value from biomass resources. By integrating biochar into agricultural, environmental, and waste management strategies, the Kingdom can accelerate progress toward Vision 2030 for  sustainable land and climate solutions.
-## Resourses
 
 
