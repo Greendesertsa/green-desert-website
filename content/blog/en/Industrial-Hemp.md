@@ -21,9 +21,9 @@ Industrial hemp is a highly versatile and sustainable plant with numerous enviro
 ## Industrial Applications of Hemp in Saudi Arabia
 The applications of industrial hemp span multiple sectors, making it a key player in economic diversification under Vision 2030.
 
-- 1.**Construction Industry:** Hempcrete, an eco-friendly alternative to concrete, provides better insulation, durability, and carbon sequestration, reducing the carbon footprint of the construction sector.
-- 2.**Textiles & Bioplastics:** Hemp fibers can be used to produce biodegradable plastics and sustainable textiles, reducing reliance on petroleum-based materials.
-- 3.**Agriculture & Soil Remediation:** Hemp revitalizes soil, making it a valuable crop for improving degraded lands and supporting Saudi Arabia’s agricultural sustainability goals.
+- **Construction Industry:** Hempcrete, an eco-friendly alternative to concrete, provides better insulation, durability, and carbon sequestration, reducing the carbon footprint of the construction sector.
+- **Textiles & Bioplastics:** Hemp fibers can be used to produce biodegradable plastics and sustainable textiles, reducing reliance on petroleum-based materials.
+- **Agriculture & Soil Remediation:** Hemp revitalizes soil, making it a valuable crop for improving degraded lands and supporting Saudi Arabia’s agricultural sustainability goals.
 
 ## Hemp and Vision 2030: Contributing to a Sustainable Future
 
@@ -58,4 +58,3 @@ Industrial hemp presents an opportunity for Saudi Arabia to strengthen its susta
 
 
 
-![Regulatory placeholder](/fiber-cover.jpg)
