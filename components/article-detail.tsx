@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import Image from "next/image";
+import { useEffect, useRef } from "react";
 
 import { cn, formatDate } from "@/lib/utils";
 import type { ContentEntry } from "@/lib/posts";
@@ -30,7 +31,16 @@ export function ArticleDetail({
 }: ArticleDetailProps) {
   const content = useContent();
   const { isRTL } = useLanguage();
+  const articleRef = useRef<HTMLElement>(null);
   const alignText = "";
+
+  useEffect(() => {
+    if (!articleRef.current) return;
+    articleRef.current.querySelectorAll("a").forEach((a) => {
+      a.setAttribute("target", "_blank");
+      a.setAttribute("rel", "noopener noreferrer");
+    });
+  }, [post.content]);
 
   const rootLink =
     root === "news"
@@ -105,6 +115,7 @@ export function ArticleDetail({
         </header>
 
         <article
+          ref={articleRef}
           className={cn(
             "blog-article prose prose-lg max-w-none prose-headings:text-gray-900 prose-p:text-gray-800 prose-strong:text-gray-900 prose-a:text-emerald-600 hover:prose-a:text-emerald-700 prose-img:rounded-xl prose-img:border prose-img:border-gray-200",
             isRTL
