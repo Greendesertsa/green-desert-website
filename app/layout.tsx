@@ -2,6 +2,7 @@ import type React from "react"
 import type { Metadata } from "next"
 import "./globals.css"
 import { LanguageProvider } from "@/components/language-provider"
+import { GoogleAnalytics } from "@next/third-parties/google"
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://greendesert.sa"
 
@@ -96,6 +97,7 @@ export default function RootLayout({
       <body className="font-sans overflow-x-hidden">
         <LanguageProvider>{children}</LanguageProvider>
       </body>
+      <GoogleAnalytics gaId="G-BHV4YP9XJ8" />
     </html>
   )
 }
