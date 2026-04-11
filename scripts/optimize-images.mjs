@@ -33,10 +33,14 @@ async function convertToWebp(srcPath) {
   }
   if (!needs) return
 
-  await sharp(srcPath)
-    .webp({ quality: 80 })
-    .toFile(destPath)
-  console.log('WebP:', path.relative(process.cwd(), destPath))
+  try {
+    await sharp(srcPath)
+      .webp({ quality: 80 })
+      .toFile(destPath)
+    console.log('WebP:', path.relative(process.cwd(), destPath))
+  } catch (err) {
+    console.warn(`Skipping ${path.relative(process.cwd(), srcPath)}: ${err.message}`)
+  }
 }
 
 async function main() {

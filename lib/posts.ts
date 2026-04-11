@@ -3,11 +3,80 @@ import path from "path";
 import matter from "gray-matter";
 import { unified } from "unified";
 import remarkParse from "remark-parse";
+import remarkGfm from "remark-gfm";
 import remarkRehype from "remark-rehype";
 import rehypeRaw from "rehype-raw";
-import rehypeSanitize from "rehype-sanitize";
+import rehypeSanitize, { defaultSchema } from "rehype-sanitize";
+import type { Options as SanitizeSchema } from "rehype-sanitize";
 import rehypeStringify from "rehype-stringify";
+import { visit } from "unist-util-visit";
+import type { Root, Element, ElementContent } from "hast";
 import { getAssetPath } from "./assets";
+
+function extractYouTubeId(url: string): string | null {
+  const match = url.match(
+    /(?:youtube\.com\/watch\?(?:.*&)?v=|youtu\.be\/|youtube\.com\/embed\/)([a-zA-Z0-9_-]{11})/
+  );
+  return match ? match[1] : null;
+}
+
+function rehypeYouTubeEmbed() {
+  return (tree: Root) => {
+    visit(tree, "element", (node: Element, index, parent) => {
+      if (node.tagName !== "p" || !parent || index === undefined) return;
+      const nonEmpty = node.children.filter(
+        (c) => !(c.type === "text" && c.value.trim() === "")
+      );
+      if (nonEmpty.length !== 1) return;
+      const child = nonEmpty[0] as Element;
+      if (child.type !== "element" || child.tagName !== "a") return;
+      const href = child.properties?.href as string | undefined;
+      if (!href) return;
+      const videoId = extractYouTubeId(href);
+      if (!videoId) return;
+
+      const iframe: ElementContent = {
+        type: "element",
+        tagName: "iframe",
+        properties: {
+          src: `https://www.youtube.com/embed/${videoId}`,
+          title: "YouTube video player",
+          frameborder: "0",
+          allow:
+            "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share",
+          allowfullscreen: true,
+          width: "100%",
+          height: "400",
+        },
+        children: [],
+      };
+      parent.children[index] = {
+        type: "element",
+        tagName: "div",
+        properties: { className: ["youtube-embed"] },
+        children: [iframe],
+      };
+    });
+  };
+}
+
+const sanitizeSchema: SanitizeSchema = {
+  ...defaultSchema,
+  tagNames: [...(defaultSchema.tagNames ?? []), "iframe"],
+  attributes: {
+    ...defaultSchema.attributes,
+    div: [...((defaultSchema.attributes?.div as string[]) ?? []), "class"],
+    iframe: [
+      ["src", /^https:\/\/www\.youtube\.com\/embed\//],
+      "title",
+      "frameborder",
+      "allow",
+      "allowfullscreen",
+      "width",
+      "height",
+    ],
+  },
+};
 
 export type EntryKind = "blog" | "news";
 
@@ -50,9 +119,11 @@ export async function getEntryBySlug(
 
     const processedContent = await unified()
       .use(remarkParse)
+      .use(remarkGfm)
       .use(remarkRehype, { allowDangerousHtml: true })
       .use(rehypeRaw)
-      .use(rehypeSanitize)
+      .use(rehypeYouTubeEmbed)
+      .use(rehypeSanitize, sanitizeSchema)
       .use(rehypeStringify)
       .process(content);
 

@@ -51,7 +51,9 @@ Your article content goes here. You can use:
 
 [Links to websites](https://example.com)
 
-![Images](./image.jpg)
+![Images](/image.jpg)
+
+https://www.youtube.com/watch?v=VIDEO_ID
 ```
 
 ### Step 4: Fill Out the Header Information
@@ -71,6 +73,31 @@ Your article content goes here. You can use:
 1. Upload images to the `/public/` folder in the main repository
 2. Reference them in your article like this: `/your-image.jpg`
 3. For the featured image, use the same path in the `image:` field
+
+## 🎬 Embedding YouTube Videos
+
+You can embed a YouTube video anywhere in an article body. Just paste the YouTube URL on its own line, with an empty line before and after it:
+
+```markdown
+Some paragraph before the video.
+
+https://www.youtube.com/watch?v=VIDEO_ID
+
+Some paragraph after the video.
+```
+
+The video will appear as a full-width, responsive 16:9 player.
+
+**Supported URL formats:**
+- `https://www.youtube.com/watch?v=VIDEO_ID`
+- `https://youtu.be/VIDEO_ID`
+
+**Rules:**
+- The URL must be on its own line, surrounded by blank lines
+- Do not wrap it in brackets or add other text on the same line
+- Only YouTube links are supported this way
+
+---
 
 ## ✏️ Editing Existing Articles
 
