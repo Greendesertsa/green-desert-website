@@ -16,6 +16,7 @@ export interface BlogCardPost {
   image?: string
   tags?: string[]
   url?: string
+  meta?: string
 }
 
 interface BlogCardProps {
@@ -94,11 +95,11 @@ export function BlogCard({ post, isRTL, languageRoute, href, imageClassName, ext
             {isRTL ? (
               <>
                 <ArrowRight className="w-4 h-4 rotate-180 transition-transform group-hover:translate-x-[-2px]" />
-                <time dateTime={post.date}>{post.date && formatDate(post.date)}</time>
+                <span>{post.meta ?? (post.date ? formatDate(post.date) : null)}</span>
               </>
             ) : (
               <>
-                <time dateTime={post.date}>{post.date && formatDate(post.date)}</time>
+                <span>{post.meta ?? (post.date ? formatDate(post.date) : null)}</span>
                 <ArrowRight className="w-4 h-4 transition-transform group-hover:translate-x-0.5" />
               </>
             )}

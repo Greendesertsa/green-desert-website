@@ -1,0 +1,146 @@
+{
+  "hero": {
+    "title": "Education",
+    "intro": "Discover courses, guides, and educational resources to deepen your understanding of industrial hemp, regenerative agriculture, and the sustainability transition."
+  },
+  "sections": [
+    {
+      "title": "Industrial Hemp Fundamentals",
+      "subtitle": "Courses, guides, and readings on hemp biology, uses, and cultivation basics.",
+      "cards": [
+        {
+          "tag": "Course",
+          "title": "Introduction to Industrial Hemp: Biology, Uses & Potential",
+          "excerpt": "A beginner-level overview of Cannabis sativa L., covering plant biology, primary applications (fibre, hurd, seed), and global market trends.",
+          "meta": "BiotechAcademy",
+          "url": "#",
+          "image": "/placeholder.webp"
+        },
+        {
+          "tag": "Guide",
+          "title": "Understanding THC vs. CBD: What Makes Hemp Industrial?",
+          "excerpt": "A plain-language explainer on the chemical distinction between industrial hemp and cannabis, and why the 0.2% THC threshold matters in regulation.",
+          "meta": "Green Desert",
+          "url": "#",
+          "image": "/placeholder.webp"
+        },
+        {
+          "tag": "Webinar",
+          "title": "Hemp Across History: From Ancient Fibre Crop to Modern Biotech",
+          "excerpt": "A recorded lecture tracing industrial hemp's agrarian history and its resurgence as a sustainable material in the 21st century.",
+          "meta": "60 min",
+          "url": "#",
+          "image": "/placeholder.webp"
+        },
+        {
+          "tag": "Reading",
+          "title": "The Anatomy of a Hemp Plant: A Field Guide",
+          "excerpt": "Illustrated breakdown of hemp plant anatomy — from root system to bract — with notes on which parts yield which commercial outputs.",
+          "meta": "Green Desert",
+          "url": "#",
+          "image": "/placeholder.webp"
+        },
+        {
+          "tag": "Course",
+          "title": "Hemp Cultivation 101: Growing Conditions & Crop Management",
+          "excerpt": "Foundational course covering soil requirements, water needs, seeding density, and harvesting windows for industrial hemp.",
+          "meta": "BiotechAcademy",
+          "url": "#",
+          "image": "/placeholder.webp"
+        }
+      ]
+    },
+    {
+      "title": "Sustainability & Climate",
+      "subtitle": "Resources on carbon capture, regenerative agriculture, and the Saudi Green Initiative.",
+      "cards": [
+        {
+          "tag": "Course",
+          "title": "Carbon Sequestration Basics: How Plants Capture CO₂",
+          "excerpt": "Introduction to the mechanisms of biological carbon capture, with a focus on fast-growing crops and their role in climate mitigation strategies.",
+          "meta": "45 min",
+          "url": "#",
+          "image": "/placeholder.webp"
+        },
+        {
+          "tag": "Webinar",
+          "title": "Regenerative Agriculture: Principles and Practice",
+          "excerpt": "Overview of soil regeneration techniques including cover cropping, minimal tillage, and composting, applied to arid-zone farming contexts.",
+          "meta": "90 min",
+          "url": "#",
+          "image": "/placeholder.webp"
+        },
+        {
+          "tag": "Guide",
+          "title": "Understanding Life Cycle Assessment for Bio-Based Materials",
+          "excerpt": "Step-by-step walkthrough of LCA methodology, aimed at professionals evaluating sustainable material choices for construction and industry.",
+          "meta": "Green Desert",
+          "url": "#",
+          "image": "/placeholder.webp"
+        },
+        {
+          "tag": "Reading",
+          "title": "Saudi Vision 2030 & the Green Initiative: A Primer",
+          "excerpt": "Summary of Saudi Arabia's key environmental commitments — the Saudi Green Initiative, the Middle East Green Initiative, and their targets for land restoration and emissions reduction.",
+          "meta": "Green Desert",
+          "url": "#",
+          "image": "/placeholder.webp"
+        },
+        {
+          "tag": "Course",
+          "title": "Water Stewardship in Arid Agriculture",
+          "excerpt": "Practical course on water-efficient irrigation strategies, wastewater reuse, and drought-resilient crop selection for farming in low-rainfall environments.",
+          "meta": "BiotechAcademy",
+          "url": "#",
+          "image": "/placeholder.webp"
+        }
+      ]
+    },
+    {
+      "title": "Biotechnology & Innovation",
+      "subtitle": "Biotech concepts, bio-based materials, and circular economy explainers.",
+      "cards": [
+        {
+          "tag": "Course",
+          "title": "Introduction to Biotechnology: From Lab to Field",
+          "excerpt": "Overview of core biotech concepts — fermentation, tissue culture, genetic markers — explained for non-specialist audiences in the agri-environmental sector.",
+          "meta": "BiotechAcademy",
+          "url": "#",
+          "image": "/placeholder.webp"
+        },
+        {
+          "tag": "Webinar",
+          "title": "Bio-Based Materials: Replacing Plastics and Concrete",
+          "excerpt": "Recorded seminar on the science and market readiness of bio-composites, hempcrete, and bioplastics as viable industrial material substitutes.",
+          "meta": "75 min",
+          "url": "#",
+          "image": "/placeholder.webp"
+        },
+        {
+          "tag": "Guide",
+          "title": "What Is a Biorefinery? A Non-Technical Explainer",
+          "excerpt": "Plain-language introduction to the biorefinery model — how crop biomass is fractionated into multiple valuable outputs with near-zero waste.",
+          "meta": "Green Desert",
+          "url": "#",
+          "image": "/placeholder.webp"
+        },
+        {
+          "tag": "Reading",
+          "title": "Circular Economy Principles: A Starter Reading List",
+          "excerpt": "Curated selection of accessible articles and reports introducing circular design, closed-loop systems, and waste valorisation concepts.",
+          "meta": "Green Desert",
+          "url": "#",
+          "image": "/placeholder.webp"
+        },
+        {
+          "tag": "Course",
+          "title": "Plant Genetics & Crop Improvement for Beginners",
+          "excerpt": "Accessible course covering selective breeding, marker-assisted selection, and how these techniques are applied to improve industrial hemp varieties.",
+          "meta": "BiotechAcademy",
+          "url": "#",
+          "image": "/placeholder.webp"
+        }
+      ]
+    }
+  ]
+}

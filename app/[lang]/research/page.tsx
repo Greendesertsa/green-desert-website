@@ -1,6 +1,10 @@
 import type { Metadata } from "next"
 import { Header } from "@/components/header"
 import FooterWithNews from "@/components/footer-with-news"
+import { SectionCardCarousel } from "@/components/section-solutions-pathways"
+import { Text as TypographyText } from "@/components/typography"
+import enResearchContent from "@/content/i18n/en/research.json"
+import arResearchContent from "@/content/i18n/ar/research.json"
 
 interface PageProps {
   params: Promise<{
@@ -47,14 +51,34 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 
 export default async function ResearchPage({ params }: PageProps) {
   const { lang } = await params
+  const language = lang === "ar-SA" ? "ar" : "en"
+  const isRTL = language === "ar"
+  const content = language === "ar" ? arResearchContent : enResearchContent
+
   return (
     <div className="min-h-screen bg-white">
       <Header />
-      <main className="container mx-auto px-4 py-24">
-        <div className="flex min-h-[45vh] items-center justify-center">
-          <p className="text-lg font-medium text-gray-600">Coming soon</p>
+      <div className="container mx-auto px-4 py-12 pt-24">
+        <div className="text-center mb-4">
+          <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
+            {content.hero.title}
+          </h1>
+          <TypographyText className="text-gray-600 max-w-3xl mx-auto">
+            {content.hero.intro}
+          </TypographyText>
         </div>
-      </main>
+      </div>
+
+      <div>
+        {content.sections.map((section, i) => (
+          <SectionCardCarousel
+            key={i}
+            section={section}
+            isRTL={isRTL}
+          />
+        ))}
+      </div>
+
       <FooterWithNews lang={lang} />
     </div>
   )

@@ -1,0 +1,146 @@
+{
+  "hero": {
+    "title": "Research",
+    "intro": "Explore the scientific publications, field studies, and pilot program findings that underpin Green Desert's approach to sustainable biotechnology in Saudi Arabia."
+  },
+  "sections": [
+    {
+      "title": "Cultivation & Soil Science",
+      "subtitle": "Field studies, soil analysis, and irrigation research from Saudi pilot sites.",
+      "cards": [
+        {
+          "tag": "Study",
+          "title": "Hemp Cultivation in Arid Climates: A Saudi Arabian Field Trial",
+          "excerpt": "An 18-month field study assessing industrial hemp growth under high-temperature, low-rainfall conditions across three pilot sites in the Kingdom.",
+          "meta": "2024",
+          "url": "#",
+          "image": "/placeholder.webp"
+        },
+        {
+          "tag": "Publication",
+          "title": "Soil Carbon Sequestration Potential of Cannabis sativa in Desert Soils",
+          "excerpt": "Laboratory and field analysis of carbon capture rates when hemp is introduced into sandy, nutrient-poor desert soils.",
+          "meta": "2023",
+          "url": "#",
+          "image": "/placeholder.webp"
+        },
+        {
+          "tag": "Pilot Program",
+          "title": "Optimising Irrigation Efficiency for Hemp in the Najd Region",
+          "excerpt": "Comparative analysis of drip, subsurface, and treated wastewater irrigation systems applied to industrial hemp crops.",
+          "meta": "2024",
+          "url": "#",
+          "image": "/placeholder.webp"
+        },
+        {
+          "tag": "Research Note",
+          "title": "Mycorrhizal Inoculation as a Strategy for Enhancing Hemp Establishment",
+          "excerpt": "Preliminary results from controlled greenhouse trials using mycorrhizal fungi to accelerate root development in newly seeded hemp.",
+          "meta": "2023",
+          "url": "#",
+          "image": "/placeholder.webp"
+        },
+        {
+          "tag": "Study",
+          "title": "Phytoremediation Capacity of Industrial Hemp in Contaminated Soils",
+          "excerpt": "Investigation into hemp's ability to extract heavy metals from industrial-adjacent land as a pre-cultivation remediation step.",
+          "meta": "2022",
+          "url": "#",
+          "image": "/placeholder.webp"
+        }
+      ]
+    },
+    {
+      "title": "Biomaterials & Construction",
+      "subtitle": "Hemp fibre composites, hempcrete performance data, and life cycle assessments.",
+      "cards": [
+        {
+          "tag": "Technical Report",
+          "title": "Thermal Performance of Hempcrete Panels in Hot-Dry Climates",
+          "excerpt": "Comparative thermal resistance data for hempcrete vs. conventional concrete block construction under Saudi Arabian summer conditions.",
+          "meta": "2024",
+          "url": "#",
+          "image": "/placeholder.webp"
+        },
+        {
+          "tag": "Publication",
+          "title": "Mechanical Properties of Hemp Fibre Composites for Structural Applications",
+          "excerpt": "Tensile strength, compression, and flexural testing results for hemp-reinforced bio-composites targeted at low-load building elements.",
+          "meta": "2023",
+          "url": "#",
+          "image": "/placeholder.webp"
+        },
+        {
+          "tag": "Case Study",
+          "title": "Pilot Hempcrete Wall System: Riyadh Residential Build",
+          "excerpt": "Documentation of the first hempcrete wall panel installation in a Saudi residential context, including thermal monitoring data.",
+          "meta": "2024",
+          "url": "#",
+          "image": "/placeholder.webp"
+        },
+        {
+          "tag": "Research Note",
+          "title": "CO₂ Absorption in Lime-Hemp Binder Systems over 24 Months",
+          "excerpt": "Longitudinal study measuring ongoing carbonation and CO₂ sequestration in cured hempcrete samples.",
+          "meta": "2022",
+          "url": "#",
+          "image": "/placeholder.webp"
+        },
+        {
+          "tag": "Study",
+          "title": "Life Cycle Assessment: Hemp vs. Conventional Building Materials",
+          "excerpt": "Full cradle-to-gate LCA comparing hemp-based panels against cement block, gypsum board, and mineral wool insulation.",
+          "meta": "2023",
+          "url": "#",
+          "image": "/placeholder.webp"
+        }
+      ]
+    },
+    {
+      "title": "Circular Economy & Policy",
+      "subtitle": "Regulatory frameworks, economic feasibility studies, and Vision 2030 alignment.",
+      "cards": [
+        {
+          "tag": "Policy Brief",
+          "title": "Regulatory Frameworks for Industrial Hemp in GCC Countries",
+          "excerpt": "Overview and comparison of current legal status, licensing pathways, and THC limits across Saudi Arabia, UAE, and Bahrain.",
+          "meta": "2024",
+          "url": "#",
+          "image": "/placeholder.webp"
+        },
+        {
+          "tag": "Report",
+          "title": "Economic Viability of Industrial Hemp Value Chains in Saudi Arabia",
+          "excerpt": "Feasibility assessment of a domestic hemp processing industry: cost structure, market sizing, and revenue potential across fibre, hurd, and seed oil.",
+          "meta": "2023",
+          "url": "#",
+          "image": "/placeholder.webp"
+        },
+        {
+          "tag": "Publication",
+          "title": "Waste Stream Valorisation: Hemp Hurd as a Raw Material for Particle Board",
+          "excerpt": "Assessment of hemp hurd's suitability as a substitute feedstock for low-emission particle board manufacturing.",
+          "meta": "2024",
+          "url": "#",
+          "image": "/placeholder.webp"
+        },
+        {
+          "tag": "Policy Brief",
+          "title": "Aligning Industrial Hemp with Saudi Vision 2030 Environmental Goals",
+          "excerpt": "Mapping hemp cultivation and processing value chains to Vision 2030 sustainability KPIs and National Environment Strategy targets.",
+          "meta": "2023",
+          "url": "#",
+          "image": "/placeholder.webp"
+        },
+        {
+          "tag": "Report",
+          "title": "Water Footprint Analysis of Hemp versus Conventional Crops in Arid Zones",
+          "excerpt": "Comparative water consumption data across full crop cycles for hemp, alfalfa, wheat, and date palm under Saudi Arabian conditions.",
+          "meta": "2022",
+          "url": "#",
+          "image": "/placeholder.webp"
+        }
+      ]
+    }
+  ]
+}
