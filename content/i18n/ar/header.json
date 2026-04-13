@@ -100,7 +100,9 @@
     {
       "label": "الأخبار",
       "href": "/news"
-    },
+    }
+  ],
+  "_hiddenNav": [
     {
       "label": "البحوث",
       "href": "/research"
