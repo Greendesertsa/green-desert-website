@@ -1,7 +1,7 @@
 {
   "hero": {
     "title": "Education",
-    "intro": "Discover courses, guides, and educational resources to deepen your understanding of industrial hemp, regenerative agriculture, and the sustainability transition."
+    "intro": "At the intersection of biotechnology, sustainability, and innovation, Green Desert develops science-based solutions that support a more sustainable and regenerative future."
   },
   "sections": [
     {
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "title": "Biotechnology & Innovation",
+      "title": "Articles",
       "subtitle": "Biotech concepts, bio-based materials, and circular economy explainers.",
       "cards": [
         {
