@@ -51,46 +51,22 @@
       ]
     },
     {
-      "title": "Sustainability & Climate",
+      "title": "Internship & Co-op Training",
       "subtitle": "Resources on carbon capture, regenerative agriculture, and the Saudi Green Initiative.",
       "cards": [
         {
-          "tag": "Course",
-          "title": "Carbon Sequestration Basics: How Plants Capture CO₂",
-          "excerpt": "Introduction to the mechanisms of biological carbon capture, with a focus on fast-growing crops and their role in climate mitigation strategies.",
-          "meta": "45 min",
+          "tag": "Internship",
+          "title": "Internship Program",
+          "excerpt": "An immersive internship experience designed to help students and recent graduates develop practical skills and real-world expertise.",
+          "meta": "Students & Graduates",
           "url": "#",
           "image": "/placeholder.webp"
         },
         {
-          "tag": "Webinar",
-          "title": "Regenerative Agriculture: Principles and Practice",
-          "excerpt": "Overview of soil regeneration techniques including cover cropping, minimal tillage, and composting, applied to arid-zone farming contexts.",
-          "meta": "90 min",
-          "url": "#",
-          "image": "/placeholder.webp"
-        },
-        {
-          "tag": "Guide",
-          "title": "Understanding Life Cycle Assessment for Bio-Based Materials",
-          "excerpt": "Step-by-step walkthrough of LCA methodology, aimed at professionals evaluating sustainable material choices for construction and industry.",
-          "meta": "Green Desert",
-          "url": "#",
-          "image": "/placeholder.webp"
-        },
-        {
-          "tag": "Reading",
-          "title": "Saudi Vision 2030 & the Green Initiative: A Primer",
-          "excerpt": "Summary of Saudi Arabia's key environmental commitments — the Saudi Green Initiative, the Middle East Green Initiative, and their targets for land restoration and emissions reduction.",
-          "meta": "Green Desert",
-          "url": "#",
-          "image": "/placeholder.webp"
-        },
-        {
-          "tag": "Course",
-          "title": "Water Stewardship in Arid Agriculture",
-          "excerpt": "Practical course on water-efficient irrigation strategies, wastewater reuse, and drought-resilient crop selection for farming in low-rainfall environments.",
-          "meta": "BiotechAcademy",
+          "tag": "Co-op Training",
+          "title": "Co-op Training program",
+          "excerpt": "A structured training opportunity for university students to gain hands-on experience in biotechnology, sustainability, research, and industrial innovation while fulfilling academic requirements.",
+          "meta": "University Students",
           "url": "#",
           "image": "/placeholder.webp"
         }
