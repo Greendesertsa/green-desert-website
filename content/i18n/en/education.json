@@ -51,8 +51,8 @@
       ]
     },
     {
-      "title": "Internship & Co-op Training",
-      "subtitle": "Resources on carbon capture, regenerative agriculture, and the Saudi Green Initiative.",
+      "title": "Training Opportunities",
+      "subtitle": "Hands-on programs designed to support students and graduates as they develop practical skills",
       "cards": [
         {
           "tag": "Internship",
@@ -73,46 +73,30 @@
       ]
     },
     {
-      "title": "Articles",
-      "subtitle": "Biotech concepts, bio-based materials, and circular economy explainers.",
+      "title": "Knowledge & Engagement",
+      "subtitle": "Sharing knowledge and inspiring future generations through educational engagement and awareness initiatives.",
       "cards": [
         {
-          "tag": "Course",
-          "title": "Introduction to Biotechnology: From Lab to Field",
-          "excerpt": "Overview of core biotech concepts — fermentation, tissue culture, genetic markers — explained for non-specialist audiences in the agri-environmental sector.",
-          "meta": "BiotechAcademy",
+          "tag": null,
+          "title": "School Outreach",
+          "excerpt": "Educational sessions delivered in schools to introduce students to biotechnology, sustainability, and future green industries.",
+          "meta": "Schools",
           "url": "#",
           "image": "/placeholder.webp"
         },
         {
-          "tag": "Webinar",
-          "title": "Bio-Based Materials: Replacing Plastics and Concrete",
-          "excerpt": "Recorded seminar on the science and market readiness of bio-composites, hempcrete, and bioplastics as viable industrial material substitutes.",
-          "meta": "75 min",
+          "tag": null,
+          "title": "Educational Lectures",
+          "excerpt": "Engaging online talks and presentations exploring sustainability, biotechnology, and plant-based innovation.",
+          "meta": "Lectures",
           "url": "#",
           "image": "/placeholder.webp"
         },
         {
-          "tag": "Guide",
-          "title": "What Is a Biorefinery? A Non-Technical Explainer",
-          "excerpt": "Plain-language introduction to the biorefinery model — how crop biomass is fractionated into multiple valuable outputs with near-zero waste.",
-          "meta": "Green Desert",
-          "url": "#",
-          "image": "/placeholder.webp"
-        },
-        {
-          "tag": "Reading",
-          "title": "Circular Economy Principles: A Starter Reading List",
-          "excerpt": "Curated selection of accessible articles and reports introducing circular design, closed-loop systems, and waste valorisation concepts.",
-          "meta": "Green Desert",
-          "url": "#",
-          "image": "/placeholder.webp"
-        },
-        {
-          "tag": "Course",
-          "title": "Plant Genetics & Crop Improvement for Beginners",
-          "excerpt": "Accessible course covering selective breeding, marker-assisted selection, and how these techniques are applied to improve industrial hemp varieties.",
-          "meta": "BiotechAcademy",
+          "tag": null,
+          "title": "Article",
+          "excerpt": "Educational sessions delivered in schools to introduce students to biotechnology, sustainability, and future green industries.",
+          "meta": "Schools",
           "url": "#",
           "image": "/placeholder.webp"
         }
