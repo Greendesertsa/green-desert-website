@@ -22,3 +22,7 @@ The partnership aligns with Saudi Arabia’s Vision 2030, bringing advanced tech
 
 ![Partnership image](/lachanvriere2.jpg)
 
+https://www.youtube.com/watch?v=U48OEvYg-pM
+
+
+
