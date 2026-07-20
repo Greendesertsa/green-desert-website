@@ -7,6 +7,8 @@ image: "/lachanvriere.jpg"
 tags: [Partnership, Agriculture]
 ---
 
+https://www.youtube.com/watch?v=U48OEvYg-pM
+
 ## Partnership Overview
 
 In a historic move to drive innovation and sustainability in the Kingdom of Saudi Arabia, Green Desert Establishment has announced the signing of an exclusive partnership with La Chanvrière, a global leader in industrial hemp products. The contract signing ceremony took place in September 2023 in Paris, France, in the
@@ -22,7 +24,6 @@ The partnership aligns with Saudi Arabia’s Vision 2030, bringing advanced tech
 
 ![Partnership image](/lachanvriere2.jpg)
 
-https://www.youtube.com/watch?v=U48OEvYg-pM
 
 
 
