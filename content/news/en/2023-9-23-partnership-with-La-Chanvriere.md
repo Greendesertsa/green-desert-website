@@ -7,7 +7,6 @@ image: "/lachanvriere.jpg"
 tags: [Partnership, Agriculture]
 ---
 
-https://www.youtube.com/watch?v=U48OEvYg-pM
 
 ## Partnership Overview
 
