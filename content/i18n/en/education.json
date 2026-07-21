@@ -6,10 +6,19 @@
   },
   "sections": [
     {
-      "title": "Industrial Hemp Fundamentals",
-      "subtitle": "Courses, guides, and readings on hemp biology, uses, and cultivation basics.",
-      "cards": [
-        {
+  "title": "Industrial Hemp Fundamentals",
+  "subtitle": "Courses, guides, and readings on hemp biology, uses, and cultivation basics.",
+  "cards": [
+    {
+      "tag": "Guide",
+      "title": "Introduction to Industrial Hemp",
+      "excerpt": "Learn the fundamentals of industrial hemp, its biology, applications, and role in sustainable industries.",
+      "meta": "Beginner Guide",
+      "url": "#",
+      "image": "/placeholder.webp"
+    }
+  ]
+},
       "title": "Training Opportunities",
       "subtitle": "Hands-on programs designed to support students and graduates as they develop practical skills",
       "cards": [
