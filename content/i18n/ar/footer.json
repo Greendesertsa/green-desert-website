@@ -2,7 +2,7 @@
   "follow": {
     "links": [
       {
-        "label": "تويتر",
+        "label": "اكس.تويتر",
         "href": "https://twitter.com/Greendesertsa",
         "icon": "x"
       },
@@ -67,6 +67,6 @@
   ],
   "newsTitle": "أحدث المقالات",
   "legal": {
-    "copyright": "© 2024 شركة جرين ديزرت. جميع الحقوق محفوظة."
+    "copyright": "© 2024 شركةالصحراء الخضراء. جميع الحقوق محفوظة."
   }
 }
