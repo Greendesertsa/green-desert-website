@@ -2,21 +2,21 @@
   "learnMore": "اعرف المزيد",
   "home": "الرئيسية",
   "contactUsCta": {
-    "label": "اتصل بنا",
+    "label": "تواصل معنا",
     "href": "mailto:info@greendesert.sa"
   },
   "solutionNewsletter": {
-    "label": "Stay in the loop",
-    "title": "Get solution updates, specs, and pilot openings",
-    "subtitle": "Quarterly updates only. No spam.",
-    "cta": "Join mailing list",
+    "label": "ابقَ على اطلاع",
+    "title": "احصل على آخر مستجدات الحلول والمواصفات والفرص التجريبية",
+    "subtitle": "تحديثات ربع سنوية فقط، دون رسائل مزعجة.",
+    "cta": "الانضمام إلى القائمة البريدية",
     "href": "mailto:info@greendesert.sa?subject=Solutions%20newsletter"
   },
   "solutionWaitlist": {
-    "label": "Join the waitlist",
-    "title": "Interested in testing our solutions?",
-    "subtitle": "Share a few details to access pilots and specs first.",
-    "cta": "Join waitlist",
+    "label": "انضم إلى قائمة الانتظار",
+    "title": "هل ترغب في تجربة حلولنا؟",
+    "subtitle": "شاركنا بعض التفاصيل للوصول إلى المشاريع التجريبية والمواصفات أولًا.",
+    "cta": "الانضمام إلى قائمة الانتظار",
     "href": "mailto:info@greendesert.sa?subject=Solutions%20waitlist"
   },
   "readMore": "اقرأ المزيد",
