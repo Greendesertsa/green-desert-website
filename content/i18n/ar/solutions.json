@@ -1,156 +1,160 @@
 {
   "hero": {
-    "title": "حلول قائمة على القنب لكل متطلبات الاستدامة",
-    "subtitle": "نُوائم سلاسل قيمة القنب المرخّص مع مؤشرات الأداء التي يتعيّن على المشاريع العملاقة والجهات التنظيمية والقطاع الخاص تحقيقها.",
-    "image": "/hurd-cover.jpg"
+    "title": "حلول نباتية لكل متطلبات الاستدامة",
+    "subtitle": "نصمم ونطوّر سلاسل قيمة نباتية مرخّصة، مصممة وفق متطلبات الأداء والامتثال ومعايير الاستدامة للمدن والمشاريع الكبرى والجهات التنظيمية والقطاعات الصناعية.",
+    "image": "/Solution.jpeg"
   },
   "highlights": {
-    "badge": "أثر قائم على النباتات",
-    "body": "اختر المسار المناسب لاكتشاف القيمة التجارية وجاهزية التشغيل والمواصفات التقنية التي تنقل المشاريع من التجربة إلى التوسع.",
+    "badge": "أثر الحلول النباتية",
+    "body": "نطوّر الحلول النباتية من مرحلة التحقق التجريبي إلى التطبيق على نطاق واسع.",
     "stats": [
       {
-        "id": "projects",
-        "label": "12 تطبيقًا تجريبيًا"
+        "id": "Partners",
+        "label": "3 شراكات حكومية وخاصة"
+      },
+      {
+        "id": "Projects",
+        "label": "3 مشاريع تجريبية"
       },
       {
         "id": "emissions",
-        "label": "احتجاز 7.8 طن مكافئ CO₂/هكتار"
+        "label": "7.8 طن من ثاني أكسيد الكربون لكل هكتار"
       },
       {
-        "id": "partners",
-        "label": "18 شريكًا من القطاعين العام والخاص"
+        "id": "Pending projects",
+        "label": "3 مشاريع قيد التطوير"
       }
     ]
   },
   "pathways": {
-    "title": "القطاعات التي نمكّنها",
-    "subtitle": "نبدأ بالأثر العام، ثم نتعمّق في المواصفات عندما تكون مستعدًا للالتزام.",
+    "title": "القطاعات التي نخدمها",
+    "subtitle": "حلول تدعم القطاعات المستدامة",
     "sectors": [
       {
         "id": "cultivation",
         "title": "الزراعة",
-        "tagline": "زراعة تجديدية لاحتجاز الكربون",
-        "summary": "تصميم دورات زراعية للقنب تحتجز الكربون وتعيد تأهيل التربة وتفتح مصادر دخل جديدة للمزارعين.",
-        "image": "/seeds-cover.webp",
+        "tagline": "زراعة تجديدية لتعزيز احتجاز الكربون",
+        "summary": "نطوّر أنظمة زراعية تجديدية تساعد على احتجاز الكربون، واستعادة صحة التربة، وفتح مصادر دخل جديدة للمزارعين.",
+        "image": "/Cultivation.png",
         "video": null,
         "href": "/solutions/cultivation"
       },
       {
         "id": "construction",
-        "title": "الإنشاءات",
-        "tagline": "أنظمة الهيمبكريت وأغلفة المباني",
-        "summary": "تقديم أغلفة منخفضة الكربون مع تصاميم خلط ومعايير ضمان الجودة ودعم التصميم لملاءمة مناخات دول مجلس التعاون.",
-        "video": "sliderV.mp4",
-        "image": "/hemp-blocks-01-443x300.webp",
+        "title": "البناء والتشييد",
+        "tagline": "مواد وأنظمة بناء نباتية مستدامة",
+        "summary": "تطوير حلول ومواد بناء نباتية تجمع بين الأداء الحراري العالي والأثر البيئي المنخفض، لدعم مشاريع البناء المستدامة في المملكة.",
+        "video": null,
+        "image": "/hempblock.jpg",
         "href": "/solutions/construction"
       },
       {
         "id": "textiles",
         "title": "المنسوجات",
         "tagline": "ألياف طبيعية عالية الجودة",
-        "summary": "ألياف قنب قابلة للتتبع لقطاعات الضيافة والرعاية الصحية والمنسوجات الفاخرة مع دعم التشطيب والاختبارات.",
-        "image": "/fiber-cover.webp",
+        "summary": "نطوّر أليافًا طبيعية عالية المتانة ومتكيفة مع المناخ لتلبية احتياجات القطاعات الصناعية وقطاع الأزياء في المملكة.",
+        "image": "/textile.jpeg",
         "href": "/solutions/textiles"
       },
       {
         "id": "energy",
         "title": "الطاقة والوقود الحيوي",
-        "tagline": "أنظمة تحويل الكتلة الحيوية إلى طاقة",
-        "summary": "تحويل الكتلة الحيوية للقنب إلى وقود نظيف وحبيبات جاهزة لأنظمة التوليد المشترك مع محاسبة الانبعاثات ومواصفات المواد الأولية.",
-        "image": "/diagram-1.webp",
+        "tagline": "حلول تحويل الكتلة الحيوية إلى طاقة",
+        "summary": "نحوّل الكتلة الحيوية إلى وقود نظيف وحلول طاقة منخفضة الانبعاثات، مع مواصفات دقيقة للمواد الخام وقياس الأثر البيئي.",
+        "image": "/Energy-GD.png",
         "href": "/solutions/energy"
       },
       {
         "id": "biocomposites",
-        "title": "المواد الحيوية المركّبة",
-        "tagline": "مواد خفيفة الوزن عالية المتانة",
-        "summary": "هندسة مركّبات قائمة على القنب لبرامج السيارات والطيران والتغليف بخصائص ميكانيكية مُختبرة. نوفر مواصفات الألياف وتوافقات الراتنج وإرشادات المعالجة لتقليل المخاطر أثناء التجارب الإنتاجية.",
-        "video": "sliderV.mp4",
-        "image": null,
+        "title": "المواد الحيوية المركبة",
+        "tagline": "مواد خفيفة وعالية المتانة",
+        "summary": "تطوير مواد مركبة نباتية عالية الأداء لتطبيقات السيارات والطيران والتغليف والصناعات المختلفة، تجمع بين خفة الوزن والقوة وتقليل الأثر البيئي.",
+        "video": null,
+        "image": "/biocomsite.jpeg",
         "href": "/solutions/biocomposites"
       },
       {
         "id": "waste",
-        "title": "إدارة النفايات والمعالجة البيئية",
-        "tagline": "إزالة كربون موثّقة",
-        "summary": "قياس والتحقق وتسييل احتجاز الكربون من مشاريع القنب عبر اعتماد طرف ثالث وإدراجها في السجلات المعتمدة.",
-        "image": "/diagram-1.webp",
+        "title": "إدارة النفايات ومعالجة التربة",
+        "tagline": "حلول لاستعادة الموارد وخفض الانبعاثات",
+        "summary": "نطوّر حلولًا حيوية لإعادة تأهيل التربة واستعادة الموارد من النفايات، مع أنظمة قياس ومتابعة للأثر البيئي.",
+        "image": "/Bio.jpg",
         "href": "/solutions/waste"
       },
       {
         "id": "agriculture",
         "title": "الزراعة",
-        "tagline": "تقنيات زراعية عالية الأداء",
-        "summary": "توفير مدخلات مثل حصائر القنب والملش والبذور لرفع الإنتاجية في البيئات المحكومة والحقول المفتوحة. نُكيّف الوراثة والركائز وإرشادات الري لظروف الصحراء والمحاصيل عالية القيمة.",
-        "image": "/diagram-1.webp",
+        "tagline": "تقنيات زراعية عالية الكفاءة",
+        "summary": "نوظف المحاصيل المتكيفة مع المناخ والممارسات الزراعية التجديدية لتعزيز الإنتاجية وكفاءة استخدام الموارد في المملكة.",
+        "image": "/Agriculture.png",
         "href": "/solutions/agriculture"
       },
       {
         "id": "animalCare",
-        "title": "رعاية الحيوان",
-        "tagline": "الراحة والتغذية",
-        "summary": "مدخلات قنب نظيفة وعالية الامتصاص لراحة الماشية وتعزيز الأعلاف وصحة الحيوانات المتخصصة مع تتبع كامل. تشمل البرامج مواصفات الفرش وتركيبات الأعلاف وبروتوكولات تحويل المخلفات إلى سماد.",
-        "image": "/diagram-1.webp",
+        "title": "رعاية الحيوانات",
+        "tagline": "حلول للراحة والتغذية",
+        "summary": "نوفر مواد نباتية عالية الأداء لدعم راحة الحيوانات وجودة بيئات التربية، مع حلول قابلة للتتبع تساعد على تحسين النظافة والاستدامة.",
+        "image": "/Animalbedding.webp",
         "href": "/solutions/animal-care"
       },
       {
         "id": "cosmetics",
         "title": "مستحضرات التجميل والعناية الشخصية",
-        "tagline": "مكونات فعّالة نظيفة",
-        "summary": "تطوير مكونات قنب فعّالة تحتوي على CBD أو خالية منه للعناية بالبشرة والشعر وتطبيقات السبا مع مصادر شفافة. نوفر شهادات التحليل وبيانات الثبات وإرشادات الصياغة لتقصير دورات البحث والتطوير.",
-        "image": "/diagram-1.webp",
+        "tagline": "مكونات نباتية للعناية بالبشرة",
+        "summary": "نطوّر ونوفر مستخلصات نباتية وزيوت طبيعية عالية النقاء لتطبيقات العناية بالبشرة والشعر، مع مصادر واضحة وقابلة للتتبع.",
+        "image": "/Cosmatics.png",
         "href": "/solutions/cosmetics"
       },
       {
         "id": "food",
         "title": "الأغذية والمشروبات",
-        "tagline": "تغذية وظيفية",
-        "summary": "إطلاق أغذية ومشروبات قنب عالية القيمة الغذائية مع ضمان سلسلة إمداد نظيفة ودعم حسي. نساعد العلامات التجارية في الصياغة واختبارات مدة الصلاحية والمسارات التنظيمية للانتقال السريع من التجربة إلى البيع بالتجزئة.",
-        "image": "/diagram-1.webp",
+        "tagline": "تغذية وظيفية قائمة على النباتات",
+        "summary": "نطوّر مكونات نباتية غنية بالعناصر الغذائية والبروتينات لتلبية احتياجات سوق الأغذية الوظيفية ودعم حلول غذائية أكثر استدامة.",
+        "image": "/food2.jpeg",
         "href": "/solutions/food"
       },
       {
         "id": "pharmaceutical",
-        "title": "الأدوية والعافية",
-        "tagline": "كانابينويدات بدرجة سريرية",
-        "summary": "إنتاج CBD وكانابينويدات ثانوية وأزهار دوائية جاهزة لمعايير GMP لبرامج علاجية مع أنظمة جودة مُعتمدة. ندير الوراثة وإجراءات الزراعة القياسية والتوثيق لتلبية متطلبات الجهات التنظيمية والشركاء السريريين.",
-        "image": "/diagram-1.webp",
+        "title": "الصناعات الدوائية والعافية",
+        "tagline": "تقنيات حيوية نباتية للتطبيقات الطبية",
+        "summary": "نطوّر مكونات نباتية عالية النقاء لدعم البحث والتطوير في المجالات الدوائية والطبية، من خلال التحقق المخبري والتوثيق الفني.",
+        "image": "/pharma.png",
         "href": "/solutions/pharmaceutical"
       }
     ]
   },
   "workWithUs": {
-    "label": "تعاون مع فريقنا",
-    "body": "أخبرنا عن مشروعك وسنصمّم حلًا قائمًا على القنب ومتوافقًا مع مؤشرات أدائك.",
+    "label": "شاركنا مشروعك",
+    "body": "أخبرنا عن مشروعك وسنعمل على تطوير حل نباتي يتوافق مع أهدافه ومتطلباته.",
     "cta": {
-      "label": "اعمل معنا",
+      "label": "تواصل معنا",
       "href": "mailto:info@greendesert.sa?subject=Project%20assessment"
     }
   },
   "detailsMiniNav": [
     {
       "id": "overview",
-      "label": "Overview"
+      "label": "نظرة عامة"
     },
     {
       "id": "showcase",
-      "label": "Showcase"
+      "label": "نماذج من أعمالنا"
     },
     {
       "id": "approach",
-      "label": "Approach"
+      "label": "منهجيتنا"
     },
     {
       "id": "highlights",
-      "label": "Highlights"
+      "label": "أبرز المزايا"
     },
     {
       "id": "products",
-      "label": "Products"
+      "label": "المنتجات"
     },
     {
       "id": "partners",
-      "label": "Partners"
+      "label": "الشركاء"
     }
   ],
   "details": {
@@ -158,245 +162,940 @@
       "showSignUp": false,
       "showWaitlist": false,
       "hero": {
-        "title": "Cultivation",
-        "body": "Design hemp rotations that sequester carbon, rehabilitate soil, and unlock new income streams for growers. Agronomy programs cover varietal selection, irrigation playbooks, and MRV so corporate farms can prove climate impacts to regulators and financiers.",
-        "image": "/seeds-cover.webp"
+        "title": "الزراعة",
+        "body": "نحوّل البيئات الصحراوية إلى أنظمة زراعية أكثر استدامة من خلال الزراعة الدقيقة والدورات الزراعية التجديدية، مع التركيز على تحسين صحة التربة وكفاءة استخدام المياه وإنتاج المواد الخام النباتية.",
+        "image": "/Cultivation.png"
       },
       "overview": {
         "paragraphs": [
-          "Industrial hemp cultivation represents a transformative approach to sustainable agriculture in arid regions. With its deep root system and minimal water requirements, hemp thrives in challenging climates while improving soil health and sequestering significant amounts of carbon dioxide.",
-          "Some of these agricultural benefits are then leveraged as building blocks for conventional supply chains. But it's costly. The process requires substantial expertise, careful regulatory compliance, and energy-intensive processing steps. One approach to improve the process is by better-integrating current agricultural practices to yield more sustainable products per hectare of land."
+          "نعمل على تطوير نماذج زراعية جديدة تناسب المناطق الجافة، تتجاوز أساليب الزراعة التقليدية نحو نموذج تجديدي مصمم للتعامل مع الظروف المناخية الصعبة. وتدعم المحاصيل ذات الجذور العميقة والاستهلاك المنخفض للمياه استعادة صحة التربة وإنتاج الكتلة الحيوية بصورة أكثر استدامة.",
+          "نحوّل هذه الإمكانات الزراعية إلى قيمة صناعية من خلال تطوير أنظمة تساعد على استعادة صحة التربة وإنتاج مواد خام مستدامة تدعم اقتصادًا أكثر جاهزية للمستقبل."
         ]
       },
       "showcase": {
-        "image": "/seeds-cover.jpg",
+        "image": "/cultivation-showcase.jpeg",
         "video": null
       },
       "approach": {
         "paragraphs": [
-          "ننفّذ برامج زراعية متدرجة تبدأ باختيار الأصناف وتحليل التربة ثم إدارة الري الدقيقة لضمان أداء القنب في المناخات الصحراوية.",
-          "نُوثّق الأثر الكربوني ونربط المخرجات بسلاسل الإمداد الصناعية حتى تتحول الحقول إلى أصول منشطة لاقتصاد أخضر."
+          "نجمع بين الممارسات الزراعية القائمة على العلم والأولويات المحلية، بما يضمن تحقيق الإنتاجية الزراعية مع الحفاظ على الموارد الطبيعية. نبدأ بتقييم جودة التربة وقدرة الأرض لتحديد خط أساس واضح، ثم نختار المحاصيل والأنظمة المناسبة للظروف المناخية الجافة.",
+          "ومن خلال دمج إدارة المياه والعناصر الغذائية والري الدقيق، نعمل على تقليل استهلاك الموارد، مع المتابعة المستمرة للأداء وتحسين العمليات لضمان إنتاج موثوق ومستدام للمواد الخام."
         ]
       },
       "highlights": {
-        "title": "Capabilities",
-        "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "title": "الإمكانات",
+        "subtitle": "تعزيز أمن المملكة في مجال المواد المستدامة من خلال ممارسات زراعية تجديدية عالية الإنتاجية وكفؤة في استخدام المياه.",
         "items": [
           {
-            "title": "MRV-ready",
-            "description": "Baselines, drone/LiDAR, and third-party verification baked in.",
+            "title": "حلول مبتكرة",
+            "description": "محاصيل متكيفة مع المناخ وأنظمة زراعة دقيقة مصممة للعمل بكفاءة في البيئات الجافة والصحراوية.",
+            "icon": "lightbulb",
+            "image": "/innovation.jpeg"
+          },
+          {
+            "title": "نهج مخصص",
+            "description": "حلول للري وإدارة التربة والممارسات الزراعية مصممة وفق خصائص التربة وقيود المياه في المنطقة.",
             "icon": "target",
-            "image": "/fiber-cover.jpg"
+            "image": "/target.jpeg"
           },
           {
-            "title": "Soil rehab",
-            "description": "Programs to restore water retention and microbial activity.",
+            "title": "تنفيذ سريع",
+            "description": "دورات نمو سريعة تتيح تسريع إنتاج الكتلة الحيوية وتقليص المدة الزمنية للمشاريع.",
             "icon": "zap",
-            "image": "/fiber-cover.jpg"
+            "image": "/fast-implementation.jpeg"
           },
           {
-            "title": "Circular outputs",
-            "description": "Biochar, feedstock, and fiber channels mapped from day one.",
+            "title": "موثوق وآمن",
+            "description": "عمليات زراعية مرخّصة مدعومة بأنظمة للتتبع والامتثال.",
             "icon": "shield",
-            "image": "/fiber-cover.jpg"
+            "image": "/Relible&Secure.png"
+          },
+          {
+            "title": "نمو قابل للتوسع",
+            "description": "أنظمة زراعية قابلة للتوسع من المشاريع المحلية إلى المشاريع على المستوى الوطني والإقليمي.",
+            "icon": "trending-up",
+            "image": "/Scalable-growth.jpeg"
+          },
+          {
+            "title": "ريادة في القطاع",
+            "description": "خبرة رائدة في مجال التقنيات الحيوية النباتية وتطوير حلول زراعية مناسبة للبيئات الجافة.",
+            "icon": "award",
+            "image": "/industry-leading.png"
           }
         ]
       },
       "features": {
-        "title": "Feature reels",
-        "subTitle": "Short clips or static cards—mix and match.",
+        "title": "حلول متكاملة",
+        "subTitle": "نوفر إدارة زراعية متكاملة تبدأ من تقييم قدرة التربة والأرض وصولًا إلى الحصاد المحسن، بما يضمن إنتاجًا موثوقًا ومستدامًا للمواد الخام.",
         "items": [
           {
-            "title": "Field protocol",
-            "description": "Stepwise irrigation, harvest, and processing guidance.",
+            "title": "تقنيات متقدمة",
+            "description": "توظيف البحث والتطوير الزراعي الذكي وتقنيات الزراعة الدقيقة لتعزيز قدرة المحاصيل على النمو في البيئات الجافة والصعبة.",
             "video": "/sliderV.mp4"
           },
           {
-            "title": "Data capture",
-            "description": "Sensor + audit trail templates to keep compliance simple.",
+            "title": "حلول مستدامة",
+            "description": "تطوير نماذج زراعية تساعد على تحسين صحة التربة وإنتاج مواد خام عالية القيمة لدعم الاقتصاد الأخضر.",
+            "video": "/sliderV.mp4"
+          },
+          {
+            "title": "دعم متخصص",
+            "description": "دمج الخبرات الزراعية الدولية مع التنفيذ المحلي لضمان أداء المحاصيل وسلامة الأنظمة والامتثال للمتطلبات التنظيمية.",
             "video": "/sliderV.mp4"
           }
         ]
       },
-      "spotlight": {
-        "title": "Responsibly advancing AI and robotics",
-        "subtitle": "To ensure Gemini Robotics benefits humanity, we’ve taken a comprehensive approach to safety, from practical safeguards to collaborations with experts, policymakers, and our Responsibility and Safety Council.",
-        "ctaLabel": "Contact solutions team",
-        "ctaHref": "mailto:info@greendesert.sa?subject=Cultivation%20support"
-      },
-      "products": {
-        "title": "Service kits",
-        "subtitle": "Reusable blocks for new deployments.",
-        "items": [
-          {
-            "icon": "target",
-            "title": "Gemini Robotics 1.5",
-            "description": "Our most capable vision-language-action (VLA) model. It can ‘see’ (vision), ‘understand’ (language) and ‘act’ (action) within the physical world. It processes visual inputs and user prompts, learning within different embodiments and increasing its ability to generalize problem-solving.",
-            "ctaLabel": "Learn more",
-            "ctaHref": "mailto:info@greendesert.sa?subject=Pilot%20kit"
-          },
-          {
-            "icon": "shield",
-            "title": "Gemini Robotics-ER 1.5",
-            "description": "Our state-of-the-art embodied reasoning model. It specializes in understanding physical spaces, planning, and making logical decisions relating to its surroundings. It doesn’t directly control robotic limbs – but provides high-level insights to help the VLA model decide what to do next.",
-            "ctaLabel": "Learn more",
-            "ctaHref": "mailto:info@greendesert.sa?subject=Reporting%20bundle"
-          }
-        ]
-      },
-      "partners": {
-        "title": "Collaborations",
-        "subtitle": "We’re partnering with Apptronik to build the next generation of humanoid robots. We’re also working with over 60 trusted testers to guide the future of Gemini Robotics-ER.",
-        "items": [
-          {
-            "label": "Agronomy partner",
-            "description": "Agility Robotics",
-            "image": "/oasis-energy.svg"
-          },
-          {
-            "label": "MRV partner",
-            "description": "Apptronik",
-            "image": "/desert-labs.svg"
-          }
-        ]
-      }
+      "spotlight": null,
+      "products": null,
+      "partners": null
     },
     "construction": {
       "showSignUp": false,
       "showWaitlist": false,
-      "hero": null,
-      "overview": null,
-      "showcase": null,
-      "approach": {
+      "hero": {
+        "title": "البناء والتشييد",
+        "body": "نطوّر أنظمة بناء منخفضة الأثر الكربوني لدعم النمو العمراني في المملكة، مع التركيز على مواد البناء النباتية عالية الأداء والمصممة لتلبية متطلبات المشاريع السعودية واسعة النطاق.",
+        "image": "/hempblock.jpg"
+      },
+      "overview": {
         "paragraphs": [
-          "نموذج تسليم متكامل يغطي تصميم الخلطات وضبط الجودة ودعم التنفيذ لمشاريع الهيمبكريت في المنطقة.",
-          "نوفّر جداول زمنية وإرشادات ميدانية للمقاولين لضمان الأداء الحراري وتقليل الانبعاثات عبر المشاريع العملاقة."
+          "توفر مواد البناء النباتية بدائل منخفضة الأثر الكربوني للأنظمة التقليدية، مع الجمع بين كفاءة العزل والأداء والمتانة. وقد صُممت هذه المواد لتناسب الظروف المناخية الجافة، وتساعد على تقليل الاعتماد على المواد كثيفة الانبعاثات ودعم البناء الدائري.",
+          "تساهم مواد البناء النباتية في خفض البصمة الكربونية للمشاريع، مع توفير مسار عملي نحو تحقيق أهداف المملكة في الاستدامة وخفض الانبعاثات."
         ]
       },
-      "highlights": null,
-      "features": null,
+      "showcase": {
+        "image": "/hempcrete.jpeg",
+        "video": null
+      },
+      "approach": {
+        "paragraphs": [
+          "معالجة الكتلة الحيوية – تحويل المواد النباتية الخام إلى ألياف ومواد حيوية عالية الجودة.",
+          "التركيبات الدقيقة – استخدام تركيبات مجرّبة لتطوير مواد بناء متكيفة مع المناخ.",
+          "التصنيع الصناعي – توسيع إنتاج الكتل والألواح وأنظمة العزل.",
+          "دمج الأنظمة في المشاريع – توفير حلول بناء جاهزة للاستخدام ومتوافقة مع متطلبات البناء في المملكة."
+        ]
+      },
+      "highlights": {
+        "title": "الإمكانات",
+        "subtitle": "خفض الأثر الكربوني للبيئة العمرانية من خلال مواد حيوية عالية الأداء وعزل حراري فعال.",
+        "items": [
+          {
+            "title": "كفاءة حرارية",
+            "description": "عزل عالي الأداء يساعد على تقليل الطلب على الطاقة للتبريد، ومصمم خصيصًا للظروف المناخية شديدة الحرارة في المنطقة.",
+            "icon": "ThermometerSun",
+            "image": "/Thermal-resilience.png"
+          },
+          {
+            "title": "خفض الانبعاثات الكربونية",
+            "description": "مواد بناء نباتية تساعد على تقليل الكربون المتجسد في المشاريع ودعم أهداف خفض الانبعاثات.",
+            "icon": "leaf",
+            "image": "/carbon-Construction.png"
+          },
+          {
+            "title": "السلامة ومقاومة الحريق",
+            "description": "مواد حيوية مصممة وفق متطلبات السلامة والأداء للمشاريع واسعة النطاق.",
+            "icon": "shield-check",
+            "image": "/Fire&safety.png"
+          },
+          {
+            "title": "تنظيم الرطوبة",
+            "description": "خصائص تساعد على تنظيم الرطوبة وتحسين جودة البيئة الداخلية في المناطق الساحلية والجافة.",
+            "icon": "wind",
+            "image": "/Breathable.png"
+          },
+          {
+            "title": "الراحة الصوتية",
+            "description": "مواد نباتية عالية الكثافة توفر خصائص جيدة لامتصاص الصوت، مناسبة للمشاريع السكنية والتجارية.",
+            "icon": "volume-1",
+            "image": "/Acoustic.png"
+          },
+          {
+            "title": "الاقتصاد الدائري",
+            "description": "موارد نباتية متجددة تدعم التحول نحو أنظمة بناء أكثر استدامة وكفاءة في استخدام الموارد.",
+            "icon": "refresh-ccw",
+            "image": "/Circular-Economy.png"
+          }
+        ]
+      },
+      "features": {
+        "title": "حلول متكاملة",
+        "subTitle": "نساعد المطورين والمهندسين على دمج المواد الحيوية منخفضة الأثر الكربوني في البنية التحتية الحديثة لتحقيق أداء حراري وإنشائي أفضل.",
+        "items": [
+          {
+            "title": "هندسة متكيفة مع المناخ",
+            "description": "أنظمة مواد مصممة لتحمل الظروف المناخية القاسية في المنطقة وتقليل الاعتماد على أنظمة التكييف والتدفئة.",
+            "video": "/sliderV.mp4"
+          },
+          {
+            "title": "حلول مستدامة",
+            "description": "تطوير أنظمة بناء نباتية تساعد على تقليل الكربون المتجسد في المشاريع واسعة النطاق.",
+            "video": "/sliderV.mp4"
+          },
+          {
+            "title": "ضمان الجودة",
+            "description": "تطبيق إجراءات متكاملة لضمان الجودة والاختبارات الفنية بما يضمن توافق مكونات البناء مع متطلبات السلامة والمعايير المعتمدة.",
+            "video": "/sliderV.mp4"
+          }
+        ]
+      },
       "spotlight": null,
       "products": null,
       "partners": null
     },
     "textiles": {
-      "showSignUp": false,
-      "showWaitlist": false,
-      "hero": null,
-      "overview": null,
-      "showcase": null,
-      "approach": null,
-      "highlights": null,
-      "features": null,
-      "spotlight": null,
-      "products": null,
-      "partners": null
-    },
-    "energy": {
-      "showSignUp": false,
-      "showWaitlist": false,
-      "hero": null,
-      "overview": null,
-      "showcase": null,
-      "approach": null,
-      "highlights": null,
-      "features": null,
-      "spotlight": null,
-      "products": null,
-      "partners": null
-    },
-    "biocomposites": {
-      "showSignUp": false,
-      "showWaitlist": false,
-      "hero": null,
-      "overview": null,
-      "showcase": null,
-      "approach": null,
-      "highlights": null,
-      "features": null,
-      "spotlight": null,
-      "products": null,
-      "partners": null
-    },
-    "waste": {
-      "showSignUp": false,
-      "showWaitlist": false,
-      "hero": null,
-      "overview": null,
-      "showcase": null,
-      "approach": null,
-      "highlights": null,
-      "features": null,
-      "spotlight": null,
-      "products": null,
-      "partners": null
-    },
-    "agriculture": {
-      "showSignUp": false,
-      "showWaitlist": false,
-      "hero": null,
-      "overview": null,
-      "showcase": null,
-      "approach": null,
-      "highlights": null,
-      "features": null,
-      "spotlight": null,
-      "products": null,
-      "partners": null
-    },
-    "animal-care": {
-      "showSignUp": false,
-      "showWaitlist": false,
-      "hero": null,
-      "overview": null,
-      "showcase": null,
-      "approach": null,
-      "highlights": null,
-      "features": null,
-      "spotlight": null,
-      "products": null,
-      "partners": null
-    },
-    "cosmetics": {
-      "showSignUp": false,
-      "showWaitlist": false,
-      "hero": null,
-      "overview": null,
-      "showcase": null,
-      "approach": null,
-      "highlights": null,
-      "features": null,
-      "spotlight": null,
-      "products": null,
-      "partners": null
-    },
-    "food": {
-      "showSignUp": false,
-      "showWaitlist": false,
-      "hero": null,
-      "overview": null,
-      "showcase": null,
-      "approach": null,
-      "highlights": null,
-      "features": null,
-      "spotlight": null,
-      "products": null,
-      "partners": null
-    },
-    "pharmaceutical": {
-      "showSignUp": false,
-      "showWaitlist": false,
-      "hero": null,
-      "overview": null,
-      "showcase": null,
-      "approach": null,
-      "highlights": null,
-      "features": null,
-      "spotlight": null,
-      "products": null,
-      "partners": null
-    },
-    "services": {
+  "showSignUp": false,
+  "showWaitlist": false,
+  "hero": {
+    "title": "المنسوجات",
+    "body": "نطوّر أليافًا طبيعية عالية المتانة ومتكيّفة مع المناخ لتلبية احتياجات القطاعات الصناعية وقطاع الأزياء في المملكة، مع تطوير حلول نسيجية مستدامة تلبي معايير الأداء والراحة في المنطقة.",
+    "image": "/textile.jpeg"
+  },
+  "overview": {
+    "paragraphs": [
+      "تمثل الألياف النباتية مستقبلًا واعدًا للمنسوجات المستدامة، لما تجمعه من المتانة والأداء مع المسؤولية البيئية.",
+      "نعمل على تطوير بدائل نباتية متجددة توفر أداءً يوازي أو يتجاوز بعض المواد التقليدية، مع استهلاك أقل للموارد ودعم التحول نحو صناعة نسيجية أكثر استدامة."
+    ]
+  },
+  "showcase": {
+    "image": "/Fabric2.png",
+    "video": null
+  },
+  "approach": {
+    "paragraphs": [
+      "المعالجة المتخصصة – فصل الألياف النباتية عن أجزاء الساق باستخدام معدات صناعية دقيقة للحصول على ألياف عالية الجودة.",
+      "المعالجة المتقدمة – استخدام عمليات صديقة للبيئة لتحسين نعومة الألياف وتهيئتها لتطبيقات المنسوجات عالية الجودة.",
+      "التنقية والغزل – تجهيز الألياف للدمج مع القطن العضوي أو الحرير لتلبية متطلبات أسواق الأزياء والمنسوجات العالمية."
+    ]
+  },
+  "highlights": {
+    "title": null,
+    "subtitle": "تطوير ألياف طبيعية محلية عالية الجودة لتعزيز سلسلة قيمة نسيجية أكثر استدامة.",
+    "items": [
+      {
+        "title": "قابلية التحلل الحيوي",
+        "description": "مواد نباتية قابلة للتحلل الحيوي ويمكن إعادتها إلى الطبيعة في نهاية دورة استخدامها.",
+        "icon": "sprout",
+        "image": "/biodegradable.png"
+      },
+      {
+        "title": "الحماية من الأشعة فوق البنفسجية",
+        "description": "خصائص طبيعية تساعد على الحماية من جزء كبير من الأشعة فوق البنفسجية الضارة.",
+        "icon": "sun",
+        "image": "/UVprotection.png"
+      },
+      {
+        "title": "ملائمة للبشرة الحساسة",
+        "description": "ألياف طبيعية لطيفة وغير مهيجة، مما يجعلها مناسبة لمجموعة واسعة من تطبيقات المنسوجات.",
+        "icon": "Sparkles",
+        "image": "/Hypoallergnec.png"
+      },
+      {
+        "title": "امتصاص عالٍ للرطوبة",
+        "description": "تساعد بنية الألياف على امتصاص الرطوبة بكفاءة، مما يجعلها مناسبة للمناشف والملابس الرياضية.",
+        "icon": "droplets",
+        "image": "/Highly-absorbant.png"
+      },
+      {
+        "title": "خصائص مضادة للميكروبات",
+        "description": "خصائص طبيعية تساعد على الحد من نمو العفن والبكتيريا المسببة للروائح.",
+        "icon": "shield-minus",
+        "image": "/Antimicrobial.png"
+      },
+      {
+        "title": "المتانة",
+        "description": "ألياف قوية ومتينة مصممة لتحمل الاستخدام المتكرر مع الحفاظ على أدائها.",
+        "icon": "shield",
+        "image": "/durability.png"
+      },
+      {
+        "title": "التهوية",
+        "description": "تسمح بنية الألياف بمرور الهواء بكفاءة، مما يساعد على تنظيم الرطوبة ودرجة حرارة الجسم.",
+        "icon": "wind",
+        "image": "/Braethablle.png"
+      }
+    ]
+  },
+  "features": {
+    "title": null,
+    "subTitle": "دمج تقنيات معالجة الألياف المتقدمة مع التصنيع المحلي لتوفير مواد عالية المتانة تلبي المعايير الصناعية العالمية.",
+    "items": [
+      {
+        "title": "تقنيات متقدمة",
+        "description": "استخدام عمليات متخصصة لمعالجة الألياف النباتية وتحويلها إلى ألياف عالية المتانة وطويلة الاستخدام.",
+        "video": "/sliderV.mp4"
+      },
+      {
+        "title": "حلول مستدامة",
+        "description": "توفير بدائل منخفضة الأثر وقابلة للتحلل للمواد الصناعية، بما يساعد العلامات التجارية على خفض انبعاثاتها ودعم مبادرات الاستدامة.",
+        "video": "/sliderV.mp4"
+      },
+      {
+        "title": "دعم متخصص",
+        "description": "توفير الدعم الفني في التحقق من الأداء والخلط والمعالجة النهائية لضمان توافق المنتجات مع معايير الجودة والمتانة.",
+        "video": "/sliderV.mp4"
+      }
+    ]
+  },
+  "spotlight": null,
+  "products": null,
+  "partners": null
+},
+"energy": {
+  "showSignUp": false,
+  "showWaitlist": false,
+  "hero": {
+    "title": "الطاقة والوقود الحيوي",
+    "body": "نحوّل الكتلة الحيوية الصناعية إلى وقود نظيف ومدخلات لإنتاج الطاقة، مع تطوير مواصفات للمواد الخام وأنظمة لقياس الانبعاثات لدعم حلول طاقة منخفضة الأثر الكربوني.",
+    "image": "/Energy-GD.png"
+  },
+  "overview": {
+    "paragraphs": [
+      "يمثل تنويع مصادر الطاقة وخفض الانبعاثات أحد محاور رؤية السعودية 2030. وتركز حلولنا في مجال الطاقة والوقود الحيوي على تحويل الكتلة الحيوية المستدامة إلى مدخلات للطاقة المتجددة تدعم أهداف التحول الوطني في قطاع الطاقة.",
+      "ومن خلال الاستفادة من الموارد الحيوية، نساهم في خفض الانبعاثات وتعزيز أمن الطاقة وتطوير صناعات دائرية منخفضة الأثر الكربوني."
+    ]
+  },
+  "showcase": {
+    "image": "/energy-sahowcase.png",
+    "video": null
+  },
+  "approach": {
+    "paragraphs": [
+      "إنتاج الكتلة الحيوية – جمع المواد النباتية الغنية بالسليلوز من مناطق الزراعة المرخصة.",
+      "المعالجة الفنية – استخدام تقنيات المعالجة الميكانيكية والكبس لتلبية متطلبات أنظمة الطاقة والتطبيقات الصناعية.",
+      "التحقق من الأثر – توفير بيانات احتجاز الكربون وشهادات الانبعاثات اللازمة لدعم متطلبات الامتثال البيئي."
+    ]
+  },
+  "highlights": {
+    "title": null,
+    "subtitle": "دعم مستقبل دائري من خلال الكتلة الحيوية عالية الكثافة والوقود الحيوي منخفض الأثر الكربوني.",
+    "items": [
+      {
+        "title": "استبدال مصادر الكربون",
+        "description": "توفير بدائل متجددة منخفضة الكربون لمصادر الوقود الأحفوري المستخدمة في توليد الحرارة والطاقة الصناعية.",
+        "icon": "fuel",
+        "image": "/Carbon.png"
+      },
+      {
+        "title": "مدخلات لإنتاج الهيدروجين",
+        "description": "كتلة حيوية موثقة يمكن استخدامها ضمن مسارات إنتاج الهيدروجين والغاز الحيوي الاصطناعي.",
+        "icon": "flask-conical",
+        "image": "/Hydrogen.png"
+      },
+      {
+        "title": "التتبع عبر دورة الحياة",
+        "description": "أنظمة متكاملة لحساب الكربون وقياس الأداء والتحقق من البيانات لدعم متطلبات الاستدامة وخفض الانبعاثات.",
+        "icon": "file-check",
+        "image": "/Lifexycle.png"
+      }
+    ]
+  },
+  "features": {
+    "title": null,
+    "subTitle": "تحسين سلسلة قيمة الطاقة من خلال معالجة دقيقة للكتلة الحيوية وتطوير مواد خام مستقرة ومنخفضة الأثر الكربوني.",
+    "items": [
+      {
+        "title": "تقنيات متقدمة",
+        "description": "استخدام تقنيات المعالجة الميكانيكية والكبس لتحويل الكتلة الحيوية إلى مدخلات طاقة موحدة وعالية الأداء.",
+        "video": "/sliderV.mp4"
+      },
+      {
+        "title": "حلول مستدامة",
+        "description": "تطوير مسارات منخفضة الأثر الكربوني تساعد القطاعات الصناعية على خفض الانبعاثات ودعم مبادرات الاستدامة.",
+        "video": "/sliderV.mp4"
+      },
+      {
+        "title": "دعم متخصص",
+        "description": "إدارة مواصفات المواد الخام والتنسيق اللوجستي والتحقق من الانبعاثات لضمان التكامل السلس مع البنية التحتية الحالية للطاقة.",
+        "video": "/sliderV.mp4"
+      }
+    ]
+  },
+  "spotlight": null,
+  "products": null,
+  "partners": null
+},
+"biocomposites": {
+  "showSignUp": false,
+  "showWaitlist": false,
+  "hero": {
+    "title": "المواد الحيوية المركبة",
+    "body": "نطوّر مواد مركبة نباتية لتطبيقات السيارات والتغليف والقطاعات الصناعية، مع توفير المواصفات الفنية وإرشادات التصنيع اللازمة لتقليل المخاطر وخفض الأثر الكربوني للمكونات الصناعية.",
+    "image": "/biocomsite.jpeg"
+  },
+  "overview": {
+    "paragraphs": [
+      "المواد الحيوية المركبة هي مواد متقدمة تجمع بين البوليمرات والمواد الحيوية أو الألياف النباتية الطبيعية، مما ينتج مواد خفيفة وعالية المتانة ذات أثر بيئي أقل مقارنة بالعديد من المواد التقليدية.",
+      "وانطلاقًا من توجهات المملكة نحو تنويع الاقتصاد وتطوير المواد المتقدمة، تدعم حلولنا في هذا المجال الابتكار الصناعي والتحول نحو تصنيع أكثر كفاءة في استخدام الموارد وأقل أثرًا على البيئة."
+    ]
+  },
+  "showcase": {
+    "image": "/Bio-composite-materials.jpeg",
+    "video": null
+  },
+  "approach": {
+    "paragraphs": [
+      "تعديل الألياف – معالجة الألياف النباتية ميكانيكيًا وكيميائيًا لتحسين توافقها مع المواد الرابطة.",
+      "التشكيل المتقدم – تطوير مكونات صناعية عالية الأداء باستخدام تقنيات التشكيل والطرق الحديثة.",
+      "التحقق من الأداء – إجراء اختبارات الإجهاد ودرجات الحرارة والمتانة للتأكد من توافق المنتجات مع متطلبات التصنيع."
+    ]
+  },
+  "highlights": {
+    "title": null,
+    "subtitle": "استبدال المواد التقليدية بمواد حيوية مركبة خفيفة وعالية الأداء لتطبيقات السيارات والصناعات الحديثة.",
+    "items": [
+      {
+        "title": "المتانة",
+        "description": "أداء ميكانيكي مرتفع يساعد على تقليل وزن المكونات دون التأثير على سلامتها الهيكلية.",
+        "icon": "Shield",
+        "image": "/Strength.png"
+      },
+      {
+        "title": "امتصاص الاهتزازات",
+        "description": "خصائص طبيعية تساعد على امتصاص الصوت والاهتزازات، مناسبة للتطبيقات الصناعية ومكونات السيارات.",
+        "icon": "volume-x",
+        "image": "/Vibration-Damping.png"
+      },
+      {
+        "title": "أثر كربوني منخفض",
+        "description": "المساهمة في خفض الانبعاثات الناتجة عن تصنيع المكونات مقارنة ببعض المواد التقليدية.",
+        "icon": "leaf",
+        "image": "/Law-Emboded-carbon.png"
+      },
+      {
+        "title": "سلسلة إمداد محلية",
+        "description": "تطوير مواد خام محلية تدعم الاستقلال الصناعي وتعزز أمن المواد في المملكة.",
+        "icon": "factory",
+        "image": "/National-Supply.png"
+      }
+    ]
+  },
+  "features": {
+    "title": null,
+    "subTitle": "هندسة تركيبات مخصصة من المواد الحيوية والألياف لتلبية متطلبات الأداء الميكانيكي وخفض الوزن في الصناعات الحديثة.",
+    "items": [
+      {
+        "title": "تقنيات متقدمة",
+        "description": "تحسين خصائص الألياف ومعالجتها لتعزيز قوة الترابط وتلبية متطلبات التطبيقات الصناعية عالية الأداء.",
+        "video": "/sliderV.mp4"
+      },
+      {
+        "title": "حلول مستدامة",
+        "description": "استبدال بعض المواد التقليدية بمواد نباتية عالية المتانة للمساهمة في خفض الأثر البيئي للمكونات المصنعة.",
+        "video": "/sliderV.mp4"
+      },
+      {
+        "title": "دعم متخصص",
+        "description": "توفير إرشادات المعالجة والمواصفات الفنية للألياف لضمان الانتقال السلس إلى مراحل التجارب والتصنيع الصناعي.",
+        "video": "/sliderV.mp4"
+      }
+    ]
+  },
+  "spotlight": null,
+  "products": null,
+  "partners": null
+},
+"waste": {
+  "showSignUp": false,
+  "showWaitlist": false,
+  "hero": {
+    "title": "إدارة النفايات ومعالجة التربة",
+    "body": "نحوّل النفايات الصناعية إلى موارد ذات قيمة من خلال المعالجة الحيوية وإعادة الاستخدام الدائري، مع تطوير أنظمة طبيعية لإعادة تأهيل التربة واستعادة الأراضي بما يتوافق مع المتطلبات البيئية الوطنية.",
+    "image": "/Bio.jpg"
+  },
+  "overview": {
+    "paragraphs": [
+      "تتعامل حلول إدارة النفايات ومعالجة التربة مع تحديات بيئية رئيسية من خلال تحويل مخلفات القطاعات الصناعية والزراعية إلى موارد ذات قيمة. ونعتمد على الأنظمة الحيوية للمساهمة في معالجة التربة وإعادة تأهيل الأراضي، بما يدعم أهداف رؤية السعودية 2030 في حماية البيئة وتطوير الاقتصاد الدائري واستعادة النظم البيئية.",
+    ]
+  },
+  "showcase": {
+    "image": "/remedation-showcase.png",
+    "video": null
+  },
+  "approach": {
+    "paragraphs": [
+      "التقييم البيئي – إجراء دراسات للموقع وتحليل التربة والمياه لتحديد طبيعة الملوثات ووضع خط أساس واضح للأداء البيئي.",
+      "المعالجة النباتية – تطبيق أنظمة نباتية مستهدفة للمساهمة في معالجة بعض الملوثات وتحسين استقرار التربة.",
+      "استعادة الكتلة الحيوية – معالجة المواد الناتجة عن عمليات الاستصلاح وتحويل المواد المناسبة إلى مدخلات صناعية.",
+      "التحقق من الأثر – توفير التقارير الفنية وبيانات الرصد والتحقق اللازمة لدعم الامتثال البيئي وإعداد تقارير الاستدامة."
+    ]
+  },
+  "highlights": {
+    "title": null,
+    "subtitle": "تحويل التحديات البيئية إلى فرص من خلال المعالجة الحيوية وإعادة تدوير الموارد.",
+    "items": [
+      {
+        "title": "معالجة التربة بالنباتات",
+        "description": "استخدام أنظمة نباتية متخصصة للمساهمة في معالجة التربة المتدهورة وتحسين خصائصها.",
+        "icon": "sprout",
+        "image": "/Soil-phyto.png"
+      },
+      {
+        "title": "احتجاز الكربون",
+        "description": "تطوير منهجيات لقياس وتوثيق احتجاز الكربون وتخزينه في التربة والمواد الحيوية.",
+        "icon": "leaf",
+        "image": "/Carbon-sequestration.png"
+      },
+      {
+        "title": "أنظمة النفايات الدائرية",
+        "description": "تحويل المخلفات الزراعية إلى مدخلات صناعية قابلة للاستخدام وتقليل الاعتماد على الطمر.",
+        "icon": "refresh-ccw",
+        "image": "/Circular-waste.png"
+      },
+      {
+        "title": "إعادة تأهيل الأراضي",
+        "description": "تطبيق حلول حيوية تساعد على استعادة خصوبة الأراضي وتحسين بنيتها في البيئات الجافة والمتدهورة.",
+        "icon": "layers",
+        "image": "/Land-Rehabilitaion.png"
+      },
+      {
+        "title": "المعالجة الحيوية للمياه",
+        "description": "تطوير أنظمة نباتية وحيوية للمساعدة في معالجة المياه الصناعية قبل تصريفها.",
+        "icon": "droplet",
+        "image": "/Effluent.png"
+      }
+    ]
+  },
+  "features": {
+    "title": null,
+    "subTitle": "تطوير حلول معالجة مخصصة للمواقع مع أنظمة قياس ومتابعة موثقة لتحويل الأراضي المتدهورة والنفايات الصناعية إلى موارد قابلة للاستفادة.",
+    "items": [
+      {
+        "title": "تقنيات متقدمة",
+        "description": "توظيف الأنظمة الحيوية لمعالجة التربة والمخلفات الصناعية، مع المتابعة الدقيقة والتحقق المخبري.",
+        "video": "/sliderV.mp4"
+      },
+      {
+        "title": "حلول مستدامة",
+        "description": "تحويل المخلفات العضوية والمواد الناتجة عن المعالجة إلى مخرجات قابلة للاستخدام مثل مدخلات الطاقة والمواد الصناعية.",
+        "video": "/sliderV.mp4"
+      },
+      {
+        "title": "دعم متخصص",
+        "description": "توفير تقييمات المواقع وتحليل النفايات وبروتوكولات المعالجة وأنظمة الرصد وإعداد التقارير والتحقق.",
+        "video": "/sliderV.mp4"
+      }
+    ]
+  },
+  "spotlight": null,
+  "products": null,
+  "partners": null
+},
+"agriculture": {
+  "showSignUp": false,
+  "showWaitlist": false,
+  "hero": {
+    "title": "الزراعة",
+    "body": "نوظف المحاصيل المتكيفة مع المناخ والممارسات الزراعية التجديدية لتعزيز الإنتاجية الزراعية وتأمين المواد الخام الصناعية في المملكة، مع التركيز على كفاءة استخدام المياه واستعادة صحة التربة.",
+    "image": "/Agriculture.png"
+  },
+  "overview": {
+    "paragraphs": [
+      "تمثل الزراعة المستدامة ركيزة أساسية لتعزيز المرونة البيئية وتنويع الاقتصاد في إطار رؤية السعودية 2030. وتركز حلولنا الزراعية على رفع الإنتاجية وتقليل الضغط على موارد المياه والتربة، بما يدعم استدامة الإنتاج الزراعي في المناطق الجافة وشبه الجافة."
+    ]
+  },
+  "showcase": {
+    "image": "/Agri-showcase.jpg",
+    "video": null
+  },
+  "approach": {
+    "paragraphs": [
+      "نجمع بين الممارسات الزراعية القائمة على العلم والأولويات الإقليمية، بدءًا من تقييم جودة التربة وقدرة الأرض، واختيار المحاصيل المناسبة للظروف المناخية الجافة، وصولًا إلى إدارة المياه والعناصر الغذائية والمتابعة المستمرة للأداء. ويساعد هذا النهج على تحقيق إنتاجية زراعية مستدامة مع الحفاظ على الموارد الطبيعية."
+    ]
+  },
+  "highlights": {
+    "title": null,
+    "subtitle": "تعزيز أمن المملكة في الغذاء والمواد الخام من خلال زراعة عالية الإنتاجية وكفؤة في استخدام المياه.",
+    "items": [
+      {
+        "title": "محاصيل متكيفة مع المناخ الجاف",
+        "description": "اختيار أصناف نباتية مناسبة لدرجات الحرارة المرتفعة ومستويات الملوحة في المملكة.",
+        "icon": "sun",
+        "image": "/Aird-climate.png"
+      },
+      {
+        "title": "كفاءة استخدام المياه",
+        "description": "استراتيجيات ري متقدمة تهدف إلى تقليل استهلاك المياه في العمليات الزراعية.",
+        "icon": "droplet-off",
+        "image": "/Water-Efficiency.png"
+      },
+      {
+        "title": "استعادة صحة التربة",
+        "description": "ممارسات زراعية تجديدية تساعد على تحسين المادة العضوية والبنية الزراعية في الأراضي المتدهورة.",
+        "icon": "sprout",
+        "image": "/Soil-health.png"
+      },
+      {
+        "title": "إنتاج سريع للكتلة الحيوية",
+        "description": "دورات إنتاجية فعالة توفر مواد خام صناعية بصورة منتظمة.",
+        "icon": "trending-up",
+        "image": "/Rapid-biomass.png"
+      }
+    ]
+  },
+  "features": {
+    "title": null,
+    "subTitle": "نوفر إدارة زراعية متكاملة تبدأ من تقييم قدرة الأرض والتربة وصولًا إلى الحصاد المحسن، بما يضمن إمدادًا موثوقًا ومحليًا بالمواد الخام.",
+    "items": [
+      {
+        "title": "تقنيات متقدمة",
+        "description": "استخدام تقنيات الزراعة الدقيقة واختيار المحاصيل المتكيفة مع الملوحة لتعزيز الإنتاجية وتقليل الطلب على المياه العذبة.",
+        "video": "/sliderV.mp4"
+      },
+      {
+        "title": "حلول مستدامة",
+        "description": "تطبيق ممارسات استعادة التربة والإدارة الفعالة للعناصر الغذائية لتحويل الأراضي الجافة إلى أنظمة زراعية أكثر إنتاجية واستدامة.",
+        "video": "/sliderV.mp4"
+      },
+      {
+        "title": "دعم متخصص",
+        "description": "إدارة دورة الإنتاج الزراعي من تقييم الأرض وحتى الحصاد، بما يضمن إمدادًا موثوقًا ومحليًا بالمواد الخام.",
+        "video": "/sliderV.mp4"
+      }
+    ]
+  },
+  "spotlight": null,
+  "products": null,
+  "partners": null
+},
+"animal-care": {
+  "showSignUp": false,
+  "showWaitlist": false,
+  "hero": {
+    "title": "رعاية الحيوانات",
+    "body": "نوفر مواد حيوية عالية الأداء لدعم راحة الحيوانات وإدارة بيئات التربية، مع تطوير حلول قابلة للتتبع وعالية الامتصاص تساعد على تحسين النظافة والرفق بالحيوان.",
+    "image": "/Animalbedding.webp"
+  },
+  "overview": {
+    "paragraphs": [
+      "توظف حلول رعاية الحيوانات النباتية المواد الحيوية لدعم راحة الحيوانات وجودة بيئات التربية والنظافة، مع تقليل الأثر البيئي. ونوفر مواد نباتية لفرش الحيوانات ومكونات غذائية نباتية مصممة لدعم رفاهية الحيوانات وتعزيز ممارسات زراعية أكثر استدامة."
+    ]
+  },
+  "showcase": {
+    "image": "/Animal-showcase.jpeg",
+    "video": null
+  },
+  "approach": {
+    "paragraphs": [
+      "تحليل المواد – دراسة بيئات تربية الحيوانات لتحديد الخصائص المناسبة للامتصاص والتحكم في الروائح.",
+      "التوريد المحلي – معالجة المواد الحيوية محليًا لإنتاج مواد مناسبة لبيئات التربية والاستخدامات الزراعية.",
+      "دعم التطبيق – تقديم الإرشادات اللازمة لدمج الحلول في أنظمة إدارة المزارع وتحسين النظافة.",
+      "استعادة القيمة من المخلفات – دعم تحويل المواد المستخدمة إلى سماد غني بالعناصر وإعادتها إلى الدورة الزراعية."
+    ]
+  },
+  "highlights": {
+    "title": null,
+    "subtitle": "تعزيز النظافة ورفاهية الحيوانات من خلال مواد حيوية عالية الامتصاص ومناسبة لبيئات التربية.",
+    "items": [
+      {
+        "title": "امتصاص عالٍ",
+        "description": "قدرة عالية على امتصاص الرطوبة للمساعدة في الحفاظ على بيئة أكثر جفافًا ونظافة.",
+        "icon": "droplets",
+        "image": "/Super-Absorbency2.png"
+      },
+      {
+        "title": "خصائص مضادة للميكروبات",
+        "description": "خصائص طبيعية تساعد على الحد من نمو البكتيريا والعفن وبعض الآفات دون الحاجة إلى المعالجة الكيميائية.",
+        "icon": "shield-check",
+        "image": "/Antimicrobial3.png"
+      },
+      {
+        "title": "حماية الجهاز التنفسي",
+        "description": "مواد معالجة ومُنقّاة مصممة للمساعدة على تقليل الغبار وتحسين بيئة الحيوانات والعاملين.",
+        "icon": "wind",
+        "image": "/Respiratory2.png"
+      },
+      {
+        "title": "التحكم في الروائح",
+        "description": "خصائص تساعد على تقليل الروائح وتحسين جودة الهواء في بيئات التربية.",
+        "icon": "circle-off",
+        "image": "/Amonia.png"
+      },
+      {
+        "title": "العزل الحراري",
+        "description": "المساعدة على تنظيم درجات الحرارة وتوفير بيئة أكثر راحة في الظروف المناخية المختلفة.",
+        "icon": "thermometer",
+        "image": "/Thermal-insulation.png"
+      }
+    ]
+  },
+  "features": {
+    "title": null,
+    "subTitle": "التعاون مع مديري مزارع الثروة الحيوانية لتطبيق أنظمة مواد حيوية عالية الأداء تعزز النظافة والاستدامة التشغيلية.",
+    "items": [
+      {
+        "title": "تقنيات متقدمة",
+        "description": "الاستفادة من الخصائص الطبيعية للمواد النباتية لتطوير حلول عالية الامتصاص مناسبة لبيئات تربية الحيوانات.",
+        "video": "/sliderV.mp4"
+      },
+      {
+        "title": "حلول مستدامة",
+        "description": "تحويل الكتلة الحيوية إلى مواد قابلة للتحلل وإعادة الاستخدام، بما يساعد على تقليل النفايات وإعادة العناصر الغذائية إلى التربة.",
+        "video": "/sliderV.mp4"
+      },
+      {
+        "title": "دعم متخصص",
+        "description": "توفير بيانات الأداء وإرشادات التطبيق لمساعدة المنتجين على تحسين جودة بيئات التربية.",
+        "video": "/sliderV.mp4"
+      }
+    ]
+  },
+  "spotlight": null,
+  "products": null,
+  "partners": null
+},
+"cosmetics": {
+  "showSignUp": false,
+  "showWaitlist": false,
+  "hero": {
+    "title": "مستحضرات التجميل والعناية الشخصية",
+    "body": "نطوّر ونوفر مستخلصات نباتية وزيوت طبيعية عالية النقاء لتطبيقات العناية بالبشرة والشعر والمنتجات المتخصصة، مع توفير معلومات واضحة حول المصدر ودعم تطوير التركيبات.",
+    "image": "/Cosmatics.png"
+  },
+  "overview": {
+    "paragraphs": [
+      "تعيد المكونات النباتية تشكيل قطاع مستحضرات التجميل والعناية الشخصية من خلال تركيبات فعالة ومستدامة. ونوظف الإمكانات الحيوية للنباتات لتطوير مكونات غنية بالأحماض الدهنية ومضادات الأكسدة لدعم تطبيقات العناية بالبشرة.",
+      "ونؤمن بأن منتجات العناية الشخصية عالية الجودة يجب أن تعكس علاقة أكثر استدامة مع البيئة. ومن خلال تطوير إنتاج محلي لمكونات نباتية عالية النقاء، نوفر للقطاع مواد خام قابلة للتتبع ومتوافقة مع توجهات المملكة في الابتكار الصناعي."
+    ]
+  },
+  "showcase": {
+    "image": "/cosmatics-showcase.png",
+    "video": null
+  },
+  "approach": {
+    "paragraphs": [
+      "تضمن منهجيتنا في الاستخلاص والتحليل المخبري تطوير مكونات نباتية عالية النقاء وموحدة الجودة، من خلال الاستخلاص الدقيق والتحليل الكيميائي، واختبارات الثبات والتوافق، إضافة إلى توفير الوثائق الفنية وشهادات التحليل اللازمة لدعم متطلبات الجودة والامتثال."
+    ]
+  },
+  "highlights": {
+    "title": null,
+    "subtitle": "توظيف الإمكانات الحيوية للمكونات النباتية عالية النقاء لتطوير مستحضرات تجميل وعناية شخصية أكثر استدامة.",
+    "items": [
+      {
+        "title": "الأحماض الدهنية",
+        "description": "مكونات غنية بالأحماض الدهنية الأساسية التي تدعم ترطيب البشرة والعناية بحاجزها الطبيعي.",
+        "icon": "droplet",
+        "image": "/Fatty-Acid-profle2.png"
+      },
+      {
+        "title": "الحماية من الأكسدة",
+        "description": "مكونات نباتية غنية بمضادات الأكسدة للمساعدة على حماية البشرة من الإجهاد التأكسدي.",
+        "icon": "shield",
+        "image": "/Antioxdat.png"
+      },
+      {
+        "title": "تركيبة خفيفة",
+        "description": "زيوت نباتية بتركيبات خفيفة مناسبة لمجموعة واسعة من تطبيقات العناية بالبشرة.",
+        "icon": "circle-off",
+        "image": "/Non-comedogenic.png"
+      },
+      {
+        "title": "خصائص مهدئة",
+        "description": "مكونات نباتية ذات خصائص مهدئة يمكن توظيفها في تطبيقات العناية بالبشرة.",
+        "icon": "heart",
+        "image": "/Anti-Inflammatory.png"
+      }
+    ]
+  },
+  "features": {
+    "title": null,
+    "subTitle": "توفير مكونات نباتية موحدة الجودة، واختبارات ثبات دقيقة، وخبرة في تطوير التركيبات لتسريع البحث والتطوير ودعم المتطلبات التنظيمية.",
+    "items": [
+      {
+        "title": "تقنيات متقدمة",
+        "description": "استخدام تقنيات استخلاص لطيفة للحفاظ على المكونات النباتية النشطة ومضادات الأكسدة.",
+        "video": "/sliderV.mp4"
+      },
+      {
+        "title": "حلول مستدامة",
+        "description": "تطوير مكونات نباتية عالية الجودة يمكن أن تساعد على تقليل الأثر البيئي لمنتجات العناية الشخصية.",
+        "video": "/sliderV.mp4"
+      },
+      {
+        "title": "دعم متخصص",
+        "description": "توفير شهادات التحليل والإرشادات الفنية لتسهيل تطوير المنتجات ودعم متطلبات الامتثال.",
+        "video": "/sliderV.mp4"
+      }
+    ]
+  },
+  "spotlight": null,
+  "products": null,
+  "partners": null
+},
+"food": {
+  "showSignUp": false,
+  "showWaitlist": false,
+  "hero": {
+    "title": "الأغذية والمشروبات",
+    "body": "نطوّر بروتينات نباتية عالية القيمة ومكونات غنية بالعناصر الغذائية لتطبيقات الأغذية الوظيفية، مع توفير مكونات مستقرة وقابلة للتتبع ودعم فني لتطوير المنتجات.",
+    "image": "/food2.jpeg"
+  },
+  "overview": {
+    "paragraphs": [
+      "تمثل التغذية النباتية عنصرًا مهمًا في بناء نظام غذائي مستدام وآمن. ونعمل على تطوير بروتينات نباتية ومكونات وظيفية تلبي الطلب المتزايد على المنتجات الغذائية النباتية.",
+      "تركز حلولنا على الاعتمادية الصناعية والقيمة الغذائية، مع دعم توطين إنتاج المكونات الغذائية وتعزيز مبادرات الأمن الغذائي في المملكة."
+    ]
+  },
+  "showcase": {
+    "image": "/food-showcase.jpeg",
+    "video": null
+  },
+  "approach": {
+    "paragraphs": [
+      "اختيار المواد الخام – اختيار أصناف غذائية عالية الجودة ومناسبة للتطبيقات الغذائية.",
+      "المعالجة الدقيقة – استخدام تقنيات معالجة ميكانيكية مناسبة لإنتاج الزيوت والدقيق والبروتينات النباتية.",
+      "التحقق من الجودة – إجراء اختبارات للسلامة والجودة والقيمة الغذائية والثبات.",
+      "التكامل الصناعي – التعاون مع مصنعي الأغذية والمشروبات لتحسين التركيبات وضمان إمداد مستقر وقابل للتوسع."
+    ]
+  },
+  "highlights": {
+    "title": null,
+    "subtitle": "تعزيز الأمن الغذائي الإقليمي من خلال البروتينات النباتية الغنية بالعناصر الغذائية والمكونات الوظيفية المستقرة.",
+    "items": [
+      {
+        "title": "بروفايل بروتين متكامل",
+        "description": "مصادر نباتية غنية بالأحماض الأمينية الأساسية لتطبيقات التغذية الوظيفية.",
+        "icon": "layers",
+        "image": "/Complete-Protein.png"
+      },
+      {
+        "title": "توازن الأحماض الدهنية",
+        "description": "مصادر نباتية تحتوي على أحماض دهنية أساسية يمكن توظيفها في المنتجات الغذائية الوظيفية.",
+        "icon": "heart-pulse",
+        "image": "/Omega3&66.png"
+      },
+      {
+        "title": "مكونات غذائية نظيفة",
+        "description": "مكونات نباتية مناسبة لتطوير منتجات ذات تركيبات بسيطة وواضحة للمستهلك.",
+        "icon": "shield-check",
+        "image": "/Allergen-free.png"
+      },
+      {
+        "title": "غنية بالعناصر الدقيقة",
+        "description": "مكونات نباتية تحتوي على مجموعة من المعادن والعناصر الغذائية المهمة.",
+        "icon": "sparkles",
+        "image": "/Micro.png"
+      },
+      {
+        "title": "ثبات النكهة",
+        "description": "معالجة متخصصة تساعد على الحفاظ على خصائص النكهة ودمج المكونات بسهولة في المنتجات الغذائية.",
+        "icon": "beaker",
+        "image": "/Flaver-stability.png"
+      },
+      {
+        "title": "الأمن الغذائي الوطني",
+        "description": "تطوير مواد خام محلية تساهم في تقليل الاعتماد على سلاسل الإمداد الخارجية والمكونات المستوردة.",
+        "icon": "factory",
+        "image": "/National-food.png"
+      }
+    ]
+  },
+  "features": {
+    "title": null,
+    "subTitle": "التعاون مع شركات الأغذية والمشروبات لتوفير مكونات نباتية مستقرة وغنية بالعناصر الغذائية ودعم تطوير الجيل القادم من المنتجات الوظيفية.",
+    "items": [
+      {
+        "title": "تقنيات متقدمة",
+        "description": "استخدام تقنيات المعالجة الميكانيكية المناسبة للحفاظ على القيمة الغذائية للمكونات النباتية.",
+        "video": "/sliderV.mp4"
+      },
+      {
+        "title": "حلول مستدامة",
+        "description": "تطوير بدائل نباتية منخفضة الأثر للعديد من المكونات التقليدية، بما يدعم الاستخدام الأكثر كفاءة للموارد.",
+        "video": "/sliderV.mp4"
+      },
+      {
+        "title": "دعم متخصص",
+        "description": "توفير مواصفات موحدة للمكونات وبيانات الثبات ودعم التكامل السريع للمنتجات.",
+        "video": "/sliderV.mp4"
+      }
+    ]
+  },
+  "spotlight": null,
+  "products": null,
+  "partners": null
+},
+"pharmaceutical": {
+  "showSignUp": false,
+  "showWaitlist": false,
+  "hero": {
+    "title": "الصناعات الدوائية والعافية",
+    "body": "نطوّر مكونات نباتية عالية النقاء للتطبيقات البحثية والطبية، مع توفير التحقق المخبري والبيانات الفنية اللازمة لدعم البحث والتطوير والمبادرات الصحية الوطنية.",
+    "image": "/pharma.png"
+  },
+  "overview": {
+    "paragraphs": [
+      "يتجه قطاعا الصناعات الدوائية والعافية نحو حلول قائمة على الموارد الحيوية ومدعومة بالأدلة العلمية. ونعمل على تطوير مكونات نباتية عالية النقاء يمكن توظيفها في البحث والتطوير الدوائي، مع التركيز على جودة المركبات وثباتها وقابليتها للتتبع.",
+      "يدعم هذا النهج توطين التقنيات الحيوية وتطوير القدرات البحثية والصناعية المحلية بما يتماشى مع توجهات المملكة في الابتكار والتصنيع."
+    ]
+  },
+  "showcase": {
+    "image": "/pharma1.jpeg",
+    "video": null
+  },
+  "approach": {
+    "paragraphs": [
+      "التوصيف الجزيئي – دراسة الخصائص الكيميائية للمكونات النباتية وتحديد المركبات المستهدفة.",
+      "العزل والتنقية – استخدام عمليات تنقية متعددة المراحل للحصول على مركبات عالية النقاء مع الحفاظ على استقرارها.",
+      "التحقق المخبري – إجراء اختبارات داخلية ومن خلال جهات مستقلة لتوفير بيانات شاملة عن التركيب والجودة والسلامة.",
+      "التكامل البحثي – التعاون مع الباحثين والمصنعين لتطوير تطبيقات موحدة ودعم البحث والتطوير المحلي."
+    ]
+  },
+  "highlights": {
+    "title": null,
+    "subtitle": "ربط علوم الجزيئات بالتطبيقات الطبية من خلال مكونات نباتية عالية النقاء لدعم الابتكار والبحث والتطوير.",
+    "items": [
+      {
+        "title": "مكونات عالية النقاء",
+        "description": "تطوير مكونات نباتية عالية النقاء لتطبيقات البحث والتطوير والمجالات الطبية وفق المتطلبات التنظيمية.",
+        "icon": "flask-conical",
+        "image": "/High-purity.png"
+      },
+      {
+        "title": "ثبات موثق",
+        "description": "اختبار المكونات تحت ظروف بيئية مختلفة للتحقق من ثبات خصائصها وجودتها خلال دورة حياة المنتج.",
+        "icon": "shield-check",
+        "image": "/Stability.png"
+      },
+      {
+        "title": "مرونة في التركيبات",
+        "description": "توفير مكونات بصيغ مختلفة بما يتناسب مع احتياجات البحث والتطوير والتطبيقات المختلفة.",
+        "icon": "shuffle",
+        "image": "/Formulation.png"
+      },
+      {
+        "title": "إمداد محلي للمكونات",
+        "description": "تطوير قدرات محلية لإنتاج المكونات الحيوية بما يساهم في تعزيز سلسلة الإمداد الوطنية.",
+        "icon": "factory",
+        "image": "/National API.png"
+      }
+    ]
+  },
+  "features": {
+    "title": null,
+    "subTitle": "دعم الابتكار في التقنيات الحيوية من خلال دمج تقنيات الاستخلاص والتنقية عالية الدقة مع الاختبارات المخبرية والتوثيق الفني.",
+    "items": [
+      {
+        "title": "تقنيات متقدمة",
+        "description": "استخدام تقنيات الاستخلاص والفصل والتنقية لتطوير مكونات نباتية عالية النقاء وفق متطلبات البحث والتطوير.",
+        "video": "/sliderV.mp4"
+      },
+      {
+        "title": "حلول مستدامة",
+        "description": "تطوير مكونات نباتية موثقة وقابلة للتكرار يمكن توظيفها في التطبيقات البحثية والصناعية.",
+        "video": "/sliderV.mp4"
+      },
+      {
+        "title": "دعم متخصص",
+        "description": "توفير الملفات الفنية وشهادات التحليل وبيانات الثبات لدعم عمليات البحث والتطوير والمتطلبات التنظيمية.",
+        "video": "/sliderV.mp4"
+      }
+    ]
+  },
+  "spotlight": null,
+  "products": null,
+  "partners": null
+},
+"services": {
       "showSignUp": false,
       "showWaitlist": false,
       "hero": null,
