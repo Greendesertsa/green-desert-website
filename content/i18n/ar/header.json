@@ -4,15 +4,15 @@
       "label": "من نحن",
       "href": "/company",
       "lead": {
-        "label": "تعرّف على القصة والتفويض الاستراتيجي وفرق القيادة التي تقود منصة القنب المرخّصة لدينا",
-        "cta": "استكشف الشركة",
+        "label": "اكتشفوا قصة الصحراء الخضراء ورؤيتها وقيادتها في تطوير مشاريع وحلول قائمة على النباتات في المملكة العربية السعودية والمنطقة.",
+        "cta": "تعرف على الشركة",
         "ctaHref": "/company"
       },
       "subItems": [
         {
           "href": "/company#story",
           "label": "القصة",
-          "description": "اكتشف كيف وُلد أول مشروع قنب مرخّص في المملكة العربية السعودية"
+          "description": "اكتشفوا كيف بدأت رحلة الصحراء الخضراء"
         },
         {
           "href": "/company#mission",
@@ -35,65 +35,65 @@
       "label": "الحلول",
       "href": "/solutions",
       "lead": {
-        "label": "تطبيق مسارات القنب المصممة خصيصًا للمشاريع العملاقة ومتطلبات الاقتصاد الدائري ومؤشرات الأداء الرئيسية للقطاع الخاص",
+        "label": "تطوير حلول مخصصة للمشاريع الكبرى ومتطلبات الاقتصاد الدائري وأهداف القطاع الخاص"
         "cta": "عرض جميع الحلول",
         "ctaHref": "/solutions"
       },
       "subItems": [
-        {
+                {
           "href": "/solutions/cultivation",
           "label": "الزراعة",
-          "description": "الزراعة التجديدية لاحتجاز الكربون"
+          "description": "زراعة كربونية مستدامة"
         },
         {
           "href": "/solutions/construction",
-          "label": "الإنشاءات",
-          "description": ""
+          "label": "البناء والتشييد",
+          "description": "حلول بناء مستدامة ومواد عالية الأداء"
         },
         {
           "href": "/solutions/textiles",
           "label": "المنسوجات",
-          "description": ""
+          "description": "ألياف طبيعية عالية الجودة"
         },
         {
           "href": "/solutions/energy",
           "label": "الطاقة والوقود الحيوي",
-          "description": ""
+          "description": "أنظمة تحويل الكتلة الحيوية إلى طاقة"
         },
         {
           "href": "/solutions/biocomposites",
-          "label": "المواد الحيوية المركّبة",
-          "description": ""
+          "label": "المواد الحيوية المركبة",
+          "description": "مواد خفيفة وعالية المتانة"
         },
         {
           "href": "/solutions/waste",
-          "label": "إدارة النفايات والمعالجة البيئية",
-          "description": ""
+          "label": "إدارة النفايات ومعالجة التلوث",
+          "description": "المعالجة النباتية وحلول الاقتصاد الدائري"
         },
         {
           "href": "/solutions/agriculture",
           "label": "الزراعة",
-          "description": ""
+          "description": "تقنيات زراعية متقدمة"
         },
         {
           "href": "/solutions/animal-care",
           "label": "رعاية الحيوان",
-          "description": ""
+          "description": "حلول للراحة والتغذية"
         },
         {
           "href": "/solutions/cosmetics",
           "label": "مستحضرات التجميل والعناية الشخصية",
-          "description": ""
+          "description": "مكونات فعالة ونظيفة"
         },
         {
           "href": "/solutions/food",
           "label": "الأغذية والمشروبات",
-          "description": ""
+          "description": "تغذية وظيفية"
         },
         {
           "href": "/solutions/pharmaceutical",
-          "label": "الأدوية",
-          "description": ""
+          "label": "المستحضرات الدوائية",
+          "description": "حلول دوائية قائمة على المركبات النباتية"
         }
       ]
     },
